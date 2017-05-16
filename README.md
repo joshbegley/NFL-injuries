@@ -1,1 +1,1 @@
-# NFL-injuries
+`NFL-injuries`
