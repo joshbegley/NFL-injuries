@@ -12,16 +12,19 @@ injurytable = soup.find(id="all_injuries")
 date = [li.text for li in injurytable.find_all('li')]
 names = [th.text for th in tbody.find_all('th')]
 injuries = [td.text for td in tbody.find_all('td', attrs={"data-stat": "injury_comment"})]
+injury_type = [td.text for td in tbody.find_all('td', attrs={"data-stat": "injury_type"})]
+status = [td.text for td in tbody.find_all('td', attrs={"data-stat": "injury_class"})]
+team = [td.text for td in tbody.find_all('td', attrs={"data-stat": "team"})]
+position = [td.text for td in tbody.find_all('td', attrs={"data-stat": "pos"})]
 
 # print date
 # print injuries
+
+rows = zip(names,injuries,injury_type,status,team,position)
 
 with open('injuries.csv', 'wb') as f:
 	writer = csv.writer(f)
 	for dateval in date:
 		writer.writerow([dateval])
-	for val in names:
-		writer.writerow([val])
-	for val2 in injuries:
-		writer.writerow([val2])
-	writer.writerow([injurytable])
+	for row in rows:
+		writer.writerow(row)
