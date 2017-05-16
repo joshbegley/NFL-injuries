@@ -16,15 +16,19 @@ injury_type = [td.text for td in tbody.find_all('td', attrs={"data-stat": "injur
 status = [td.text for td in tbody.find_all('td', attrs={"data-stat": "injury_class"})]
 team = [td.text for td in tbody.find_all('td', attrs={"data-stat": "team"})]
 position = [td.text for td in tbody.find_all('td', attrs={"data-stat": "pos"})]
+blank = " "
 
 # print date
 # print injuries
 
+row1 = zip(date,blank,blank,blank,blank,blank)
 rows = zip(names,injuries,injury_type,status,team,position)
 
 with open('injuries.csv', 'wb') as f:
 	writer = csv.writer(f)
-	for dateval in date:
-		writer.writerow([dateval])
+	#for dateval in date:
+	#	writer.writerow([dateval])
+	for row in row1:
+		writer.writerow(row)
 	for row in rows:
 		writer.writerow(row)
