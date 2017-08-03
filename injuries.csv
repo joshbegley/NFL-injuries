@@ -20,7 +20,7 @@ Chris Barker,Barker has been placed on the injured reserve list with a ruptured 
 Christine Michael,Michael has been designated for the injured reserve list with an injury to an unannounced location.,Undisclosed,I-R,IND,RB
 Clayton Geathers,Geathers is on the PUP list as he is recovering from offseason surgery to repair a neck injury and will miss the first six games of the season.,Neck,I-R,IND,S
 Kendall Langford,Langford has landed on the PUP list due to offseason surgery to fix a knee injury but is expected to be activated before the start of the season.,Knee,I-R,IND,DE
-Brian Schwenke,Schwenke has been designated for the PUP list with an unspecified injury but is likely to make his season debut against the Rams during Week 1.,Undisclosed,I-R,IND,C
+Brian Schwenke,Schwenke has been designated for the PUP list with a right ankle injury but is likely to make his season debut against the Rams during Week 1.,Ankle,I-R,IND,C
 Andrew Luck,Luck has been placed on the PUP list while he recuperates from surgery to repair a torn labrum in his shoulder but is expected to play in the season opener against the Rams.,Shoulder,I-R,IND,QB
 Deone Bucannon,Bucannon has been placed on the PUP list while recovering from surgery to repair a lingering ankle injury.,Ankle,I-R,ARI,LB
 Ronald Zamort,Zamort has landed on injured reserve due to a torn ACL.,Knee,I-R,ARI,CB
@@ -45,96 +45,100 @@ Brandon Chubb,Chubb is on injured reserve due to an injury to an unannounced loc
 Khyri Thornton,Thornton has been issued a six-game suspension by the NFL for violating the league's substance-abuse policy but is expected to be available October 29th against the Steelers.,Suspension,out,DET,DT
 Ezekiel Ansah,Ansah has been placed on the PUP list with an unspecified injury.,Undisclosed,I-R,DET,DE
 Brandon Thomas,Thomas has been placed on the PUP list with an unspecified injury.,Undisclosed,I-R,DET,G
-Sam Martin,Martin has landed on the Injured Reserve/Non-Football Injury list with an ankle injury.,Ankle,I-R,DET,P
 Taylor Decker,Decker has landed on the PUP list as he underwent surgery to repair a torn labrum in his shoulder and is expected to miss four-to-six months.,Shoulder,I-R,DET,T
 Armonty Bryant,Bryant has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs and has been placed on the PUP list with an unknown ailment. He will be eligible to return against the Bears on October 22nd.,Suspension,I-R,DET,DE
 Corey Robinson,Robinson has landed on the PUP list with an undefined injury.,Undisclosed,I-R,DET,T
 Cyrus Kouandjio,Kouandjio has been placed on the Injured Reserve/Non-Football Injury list while he recovers from hip surgery.,Hip,I-R,DET,T
+Sam Martin,Martin has landed on the Injured Reserve/Non-Football Injury list with an ankle injury.,Ankle,I-R,DET,P
 Letroy Guion,Guion has been issued a four-game suspension for violating the league's policy on performance enhancing drugs but is expected to be available October 8th against the Cowboys.,Suspension,out,GNB,DT
 Montravius Adams,Adams has a stress fracture in his foot and it is unclear if he will be ready for the season opener against the Seahawks.,Foot,questionable,GNB,DT
 Demetri Goodson,Goodson is on the PUP list while he recuperates from ACL surgery and his status for Week 7 against the Saints is up in the air.,Knee,I-R,GNB,CB
 Geronimo Allison,Allison has been suspended one game for violating the league's policy on personal conduct and will be eligible to play against the Falcons on September 17.,Suspension,out,GNB,WR
 Vince Biegel,Biegel is on the PUP list while recuperating from surgery to repair a Jones fracture in his foot. He is expected to be ready for the season opener against the Seahawks.,Ankle,I-R,GNB,LB
 David Quessenberry,Quessenberry has been battling lymphoma for the past three years and there is no timetable for a return.,Illness,out,HOU,T
-Duane Brown,Brown has been placed on the reserve/did not report list because he is holding out for a new contract. It is unclear at what point his contract situation will be resolved.,Holdout,out,HOU,T
 Joel Heath,Heath has been placed on the Injured Reserve/Non-Football Injury list with an unknown ailment.,Undisclosed,I-R,HOU,DE
+Duane Brown,Brown has been placed on the reserve/did not report list because he is holding out for a new contract. It is unclear at what point his contract situation will be resolved.,Holdout,out,HOU,T
 Derek Newton,Newton has been placed on the Injured-Reserve/PUP list while recovering from tears to both of his patellar tendons and will not play in the 2017 season.,Knee,I-R,HOU,T
+Will Fuller,Fuller broke his collarbone in training camp and is expected to be out until the beginning of November.,Collarbone,out,HOU,WR
 Jalen Ramsey,Ramsey has been placed on the PUP list while he recovers from surgery on a core muscle.,Abdominal,I-R,JAX,CB
 Aaron Colvin,Colvin has been placed on the PUP list with a foot injury.,Foot,I-R,JAX,CB
 Marquez Williams,Williams has been placed on the PUP list with an unspecified injury.,Undisclosed,I-R,JAX,FB
 Taurean Nixon,Nixon is on injured reserve due to an unknown ailment.,Undisclosed,I-R,JAX,CB
 Derrick Johnson,Johnson is recovering from a torn Achilles that ended his 2017 season and his status for opening day against the Patriots is unknown.,Achilles,questionable,KAN,LB
 Tamba Hali,Hali has been placed on the PUP list with an unspecified injury.,Undisclosed,I-R,KAN,LB
-Isaiah Battle,Battle has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,KAN,OL
-Dadi Nicolas,Nicolas has landed on the PUP list with a knee injury.,Knee,I-R,KAN,LB
 Parker Ehinger,Ehinger has been placed on the PUP list while he recovers from a previous ACL surgery.,Knee,I-R,KAN,OL
+Dadi Nicolas,Nicolas has landed on the PUP list with a knee injury.,Knee,I-R,KAN,LB
 Chris Jones,Jones is on the PUP list while he recovers from offseason arthroscopic knee surgery.,Knee,I-R,KAN,DL
+Antwan Goodley,Goodley is on the injured reserve list with an unspecified ailment.,Undisclosed,I-R,KAN,WR
+Isaiah Battle,Battle has been placed on the Injured Reserve/Non-Football Injury list with a hamstring injury.,Hamstring,I-R,KAN,OL
 T.J. McDonald,McDonald has been handed an eight-game suspension for violating the league's substance abuse policy but is expected to make his season debut November 5th against the Raiders.,Suspension,out,MIA,S
 Mike Pouncey,Pouncey is recuperating from an offseason stem cell procedure for his hip injury but is expected to be ready for the season opener against the Buccaneers.,Hip,probable,MIA,C
-Lamin Barrow,Barrow has been placed on the injured reserve list with an unspecified injury.,Undisclosed,I-R,MIA,LB
-Rashawn Scott,Scott has been designated for the PUP list due to a foot injury.,Foot,I-R,MIA,WR
 Avery Young,Young is on the Injured Reserve/Non-Football Injury list due to an unspecified injury.,Undisclosed,I-R,MIA,T
+Rashawn Scott,Scott has been designated for the PUP list due to a foot injury.,Foot,I-R,MIA,WR
 Koa Misi,Misi has landed on injured reserve with a neck injury.,Neck,I-R,MIA,LB
-Reshad Jones,Jones has been placed on the Active/Non-Football Injury list with a calf strain.,Calf,I-R,MIA,S
+Isaiah Ford,Ford had surgery to repair mensicus damage in his knee and will miss an extended amount of time.,Knee,out,MIA,WR
+Lamin Barrow,Barrow has been placed on the injured reserve list with a lower-body injury.,Lower Body,I-R,MIA,LB
 Teddy Bridgewater,Bridgewater is on the PUP list while recovering from a dislocated knee and torn ACL.,Knee,I-R,MIN,QB
-Sharrif Floyd,Floyd has landed on the Injured Reserve/Non-Football Injury list as he is recuperating from meniscus surgery that took place last season and team officials are concerned that it could be career-threatening as he is experiencing complications in his recove,Knee,I-R,MIN,DT
 Latavius Murray,Murray has been placed on the PUP list while he recovers from offseason ankle surgery.,Ankle,I-R,MIN,RB
+Sharrif Floyd,Floyd has landed on the Injured Reserve/Non-Football Injury list as he is recuperating from meniscus surgery that took place last season and team officials are concerned that it could be career-threatening as he is experiencing complications in his recove,Knee,I-R,MIN,DT
 Michael Floyd,Floyd has been suspended four games for violating the league's policy on performance-enhancing drugs. He will be eligible to join the team against the Bears in Week 5.,Suspension,out,MIN,WR
 Nick Fairley,Fairley has been placed on the Injured Reserve/Non-Football Illness list due to a heart condition.,Heart,I-R,NOR,DT
-Damian Swann,Swann is on the Injured Reserve/Non-Football Injury list until he passes his physical.,Conditioning,I-R,NOR,CB
 John Phillips,Phillips has been placed on the Injured Reserve/Non-Football Illness list while he recovers from an appendicitis.,Appendix,I-R,NOR,TE
+Damian Swann,Swann is on the Injured Reserve/Non-Football Injury list until he passes his physical.,Conditioning,I-R,NOR,CB
 Dannell Ellerbe,Ellerbe has been designated for the injured reserve list with a foot injury.,Foot,I-R,NOR,LB
-Terron Armstead,Armstead has been placed on the PUP list as he recovers from surgery to repair a torn labrum and will likely remain sidelined until Week 8 against the Bears.,Shoulder,I-R,NOR,T
 Max Unger,Unger is on the PUP list to start training camp as he is recuperating from surgery to repair a foot injury but is expected to suit up for the start of the 2017 season.,Foot,I-R,NOR,C
-Senio Kelemete,Kelemete is dealing with an unspecified injury and is on the PUP list as a result.,Undisclosed,I-R,NOR,C
+Terron Armstead,Armstead has been placed on the PUP list as he recovers from surgery to repair a torn labrum and will likely remain sidelined until Week 8 against the Bears.,Shoulder,I-R,NOR,T
 Demarcus Lawrence,Lawrence has landed on the Injured Reserve/Non-Football Injury list with an unspecified ailment.,Undisclosed,I-R,NOR,DE
 Dont'a Hightower,Hightower is on the PUP list with an undefined injury.,Undisclosed,I-R,NWE,LB
 Alan Branch,Branch has been designated for the PUP list as he has not passed his conditioning test.,Conditioning,I-R,NWE,DL
-Chase Farris,Farris has been placed on the Injured Reserve/Non-Football Injury list with an unknown ailment.,Undisclosed,I-R,NWE,OL
+Chase Farris,Farris has been placed on the Injured Reserve/Non-Football Injury list with a torn Achilles.,Achilles,I-R,NWE,OL
 Ishaq Williams,Williams has been placed on injured reserve with an unspecified injury.,Undisclosed,I-R,NYG,DE
-Shaun Draughn,Draughn has been placed on the PUP list with an unknown injury.,Undisclosed,I-R,NYG,RB
 J.T. Thomas,Thomas has been placed on the PUP list while recovering from an ACL injury.,Knee,I-R,NYG,LB
+Shaun Draughn,Draughn has been placed on the PUP list with an ankle injury.,Ankle,I-R,NYG,RB
 Devin Smith,Smith has been placed on the injured reserve list while he recovers from a torn ACL.,Knee,I-R,NYJ,WR
 Jalin Marshall,Marshall has been handed a four-game suspension for violating the league's policy on performance-enhancing drugs but is likely to return against the Browns on October 8th.,Suspension,out,NYJ,WR
-Bryson Keeton,Keeton has been placed on the injured reserve list with an unspecified injury.,Undisclosed,I-R,NYJ,CB
 Jeremy Clark,Clark has been placed on the Injured Reserve/Non-Football Injury list with a knee injury.,Knee,I-R,NYJ,CB
 ArDarius Stewart,Stewart is recovering from surgeries on his thumb and groin. His availability for the season opener against the Bills on September 10 is in question.,Thumb,questionable,NYJ,WR
 Austin Seferian-Jenkins,Seferian-Jenkins has been suspended two games by the NFL for violating the league's substance-abuse policy but is likely to make his season debut September 24 against the Dolphins.,Suspension,out,NYJ,TE
+Bryson Keeton,Keeton has been placed on the injured reserve list with a torn ACL.,Knee,I-R,NYJ,CB
 Tajae Sharpe,Sharpe has been placed on the PUP list with a foot injury.,Foot,I-R,TEN,WR
 Kevin Dodd,Dodd is battling a foot injury that plagued him for most of the 2016 season but is expected to suit up for the season opener against the Raiders.,Foot,probable,TEN,LB
 Aziz Shittu,Shittu has been placed on the injured reserve list due to a knee injury.,Knee,I-R,PHI,DT
 Dom Williams,Williams has been designated for injured reserve with an Achilles injury.,Achilles,I-R,PHI,WR
+Sidney Jones,Jones is on the Injured Reserve/Non-Football Injury list while he recovers from a torn Achilles' tendon but is expected to be activated sometime in October.,Achilles,I-R,PHI,CB
 Ryan Mathews,Mathews is recuperating from offseason neck surgery and there is no timetable for return.,Neck,out,PHI,RB
 Beau Allen,Allen has been placed on the Injured Reserve/Non-Football Injury list due to a torn pectoral muscle he suffered during the offseason.,Pectoral,I-R,PHI,DT
-Sidney Jones,Jones is on the Injured Reserve/Non-Football Injury list while he recovers from a torn Achilles' tendon but is expected to be activated sometime in October.,Achilles,I-R,PHI,CB
 Le'Veon Bell,Bell had offseason surgery to repair a groin injury and team officials will not announce an official timetable for a return until he is 100 percent healthy.,Groin,out,PIT,RB
 Canaan Severin,Severin has landed on the PUP list and will remain there until he passes his physical.,Undisclosed,I-R,PIT,WR
 Sammie Coates,Coates has been placed on the PUP list while he recovers from an offseason knee scope but is expected to suit up for the season opener against the Browns.,Knee,I-R,PIT,WR
 Martavis Bryant,Bryant missed the entire 2016-17 season due to a suspension and will remain out of action until his reinstatement has been finalized.,Suspension,out,PIT,WR
-Jihad Ward,Ward has been placed on the PUP list while he recovers from left foot surgery.,Foot,I-R,OAK,DE
 Bruce Irvin,Irvin has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,OAK,LB
-Cooper Helfet,Helfet has landed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,OAK,TE
+Jihad Ward,Ward has been placed on the PUP list while he recovers from left foot surgery.,Foot,I-R,OAK,DE
 Ben Heeney,Heeney has been placed on the Injured Reserve/Non-Football Injury list due to an ankle injury.,Ankle,I-R,OAK,LB
-Aldon Smith,Smith remains suspended for an undetermined amount of time for violating the league's substance-abuse program.,Suspension,out,OAK,LB
+Donald Penn,Penn is currently away from the team as he is unsatisfied with the status of his contract and it is uncertain as to when he will return.,Holdout,out,OAK,T
+Cooper Helfet,Helfet has landed on the Injured Reserve/Non-Football Injury list with a left foot injury.,Foot,I-R,OAK,TE
 Gareon Conley,Conley has been placed on the PUP list while recovering from shin splints.,Shin,I-R,OAK,CB
-Jon Feliciano,Feliciano has been placed on the PUP list with a knee injury.,Knee,I-R,OAK,OL
+Aldon Smith,Smith remains suspended for an undetermined amount of time for violating the league's substance-abuse program.,Suspension,out,OAK,LB
 Mario Edwards,Edwards Jr. has been placed on the Injured Reserve/Non-Football Injury list with strained hamstring.,Hamstring,I-R,OAK,DE
-Maurice Alexander,Alexander has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,LAR,S
+Jon Feliciano,Feliciano has been placed on the PUP list with a knee injury.,Knee,I-R,OAK,OL
 Lamarcus Joyner,Joyner has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,LAR,CB
 Cory Harkey,Harkey has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,LAR,TE
+Maurice Alexander,Alexander has been placed on the Injured Reserve/Non-Football Injury list with an unspecified injury.,Undisclosed,I-R,LAR,S
 Troy Hill,Hill has been issued a two-game suspension for violating the league's substance abuse policy but is expected to return September 21 against the 49ers.,Suspension,out,LAR,CB
 Mike Thomas,Thomas has been suspended four games for violating the league's policy on performance-enhancing drugs. He will be eligible to return against the Seahawks in Week 5.,Suspension,out,LAR,WR
+Dominique Easley,Easley will miss the 2017 season due to a torn ACL.,Knee,out,LAR,DT
+Aaron Donald,Donald is away from the team and is not participating in any football activities and he is unsatisfied with the current status of his contract. It is undetermined as to when he will rejoin the club.,Holdout,out,LAR,DT
 Lance Dunbar,Dunbar has been placed on the PUP list with a knee injury.,Knee,I-R,LAR,RB
-Dominique Easley,Easley will miss an unknown amount of time due to a serious knee injury.,Knee,out,LAR,DT
 Darren Waller,Waller has been suspended for at least one year for violating the league's substance-abuse policy.,Suspension,out,BAL,TE
 Joe Flacco,Flacco is bothered by stiffness in his back but will likely be ready for the season opener against the Bengals.,Back,probable,BAL,QB
 Kenneth Dixon,Dixon had season-ending surgery to repair his medial meniscus and has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs.,Knee,out,BAL,RB
 Tavon Young,Young is on the PUP list with a torn ACL and will miss the entire 2017 season.,Knee,I-R,BAL,CB
 Crockett Gillmore,Gillmore is expected to miss the remainder of the season after having surgery to repair his MCL.,Knee,out,BAL,TE
 Nico Siragusa,Siragusa suffered a torn ACL in his left knee and is expected to miss the remainder of the season.,Knee,out,BAL,G
-Darrell Stuckey,Stuckey has been placed on the PUP list with an unspecified injury.,Undisclosed,I-R,SDG,S
-Jason Verrett,Verrett has been placed on the PUP list with an undisclosed injury.,Undisclosed,I-R,SDG,CB
 Mike Williams,Williams is suffering from a herniated disk in his back and is expected to miss an extended amount of time.,Back,out,SDG,WR
+Forrest Lamp,Lamp sustained a torn ACL in his right knee and is expected to miss the entire 2017-18 season.,Knee,out,SDG,G
+Darrell Stuckey,Stuckey has been placed on the PUP list with a knee injury.,Knee,I-R,SDG,S
+Jason Verrett,Verrett has been placed on the PUP list while he recovers from a previous ACL surgery.,Knee,I-R,SDG,CB
 Tyler Lockett,Locket is recovering from a broken leg and his status is unclear for the season opener against the Packers.,Leg,questionable,SEA,WR
 Tanner McEvoy,McEvoy had surgery to repair a toe injury and it is unknown as to if he will play against the Packers in the season opener.,Toe,questionable,SEA,WR
 Dion Jordan,Jordan had an operation to repair a knee injury and his status for opening day against the Packers is up in the air.,Knee,questionable,SEA,DE
@@ -145,6 +149,6 @@ Jacquies Smith,Smith is on the PUP list while recovering from ACL surgery and hi
 Doug Martin,Martin will miss the first three weeks of the 2017 season as his suspension from the end of the 2016 campaign for violating the league's PED policy will carry over.,Suspension,out,TAM,RB
 Trent Murphy,Murphy has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs but is expected to play October 15th against the 49ers.,Suspension,out,WAS,LB
 Jordan Reed,Reed has been designated for the PUP list with a sprained big toe and soreness in his ankle.,Toe,I-R,WAS,TE
-DeAngelo Hall,Hall is on the PUP list while recuperating from surgery to repair a torn ACL in his knee.,Knee,I-R,WAS,S
 Kendal Thompson,Thompson has landed on the PUP list with an injured leg.,Leg,I-R,WAS,WR
+DeAngelo Hall,Hall is on the PUP list while recuperating from surgery to repair a torn ACL in his knee.,Knee,I-R,WAS,S
 Keith Marshall,Marshall has been placed on injured reserve after having surgery to repair a torn right patellar tendon.,Knee,I-R,WAS,RB
