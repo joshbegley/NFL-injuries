@@ -1,7 +1,8 @@
-"Last updated August 21, 2017", , , , , 
+"Last updated August 23, 2017", , , , , 
 Jalen Collins,Collins has been issued a 10-game suspension for violating the NFL's Performance Enhancing Drugs policy but is expected to be available against the Buccaneers on November 26.,Suspension,out,ATL,CB
 Devin Fuller,Fuller is on injured reserve with a torn ACL.,Knee,I-R,ATL,WR
 Walt Powell,Powell has been suspended four games for violating the league's policy on performance-enhancing drugs and is recovering from a torn meniscus. He will likely be recovered from the knee injury by the end of September but will only be eligible to play Octobe,Suspension,out,BUF,WR
+Cordy Glenn,Glenn is dealing with a lingering foot injury but is expected to be ready for the season opener against the Jets.,Foot,probable,BUF,T
 Rod Streater,Streater sustained a left foot injury and there is no timetable for return.,Foot,out,BUF,WR
 Jordan Matthews,Matthews has a chip fracture in his sternum but is expected to recover in time for the season opener against the Jets.,Sternum,probable,BUF,WR
 Corn Elder,Elder has a patella stress fracture and his availability against the 49ers in the season opener is unknown.,Knee,questionable,CAR,CB
@@ -26,6 +27,7 @@ John Greco,Greco is recovering from a foot injury and there is no timetable for 
 Darius Jackson,Jackson has been placed on injured reserve due to a knee injury.,Knee,I-R,CLE,RB
 Joel Bitonio,Bitonio is recuperating from a Lisfranc injury that ended his 2016 season and it is unknown as to if he will be ready for the season opener against the Steelers.,Foot,questionable,CLE,OL
 Howard Wilson,Wilson is on the PUP list due to a fractured kneecap.,Knee,I-R,CLE,DB
+Tank Carder,Carder suffered a torn ACL in his knee which will require season-ending surgery.,Knee,out,CLE,LB
 Danny Shelton,Shelton has a knee injury and is expected to miss three-to-six weeks.,Knee,out,CLE,DL
 Cameron Erving,Erving has an injury to his calf and it is unclear as to if he will be ready to play in the regular season opener against the Steelers.,Calf,questionable,CLE,OL
 James Wright,Wright has been designated for the injured reserve list with a bruised lung.,Lung,I-R,CLE,WR
@@ -40,7 +42,6 @@ Andrew Luck,Luck has been placed on the PUP list while he recuperates from surge
 Josh Ferguson,Ferguson has a hand injury and there is no timetable for return.,Hand,out,IND,RB
 Brian Schwenke,Schwenke has been designated for the PUP list with a right ankle injury but is likely to make his season debut against the Rams during Week 1.,Ankle,I-R,IND,C
 T.J. Logan,Logan has surgery for a dislocated his wrist and is expected to miss 12 weeks of action.,Wrist,out,ARI,RB
-Deone Bucannon,Bucannon has been placed on the PUP list while recovering from surgery to repair a lingering ankle injury but is likely to be available for Week 1 against the Lions.,Ankle,I-R,ARI,LB
 Ronald Zamort,Zamort has landed on injured reserve due to a torn ACL.,Knee,I-R,ARI,CB
 Alani Fua,Fua is on injured reserve due to a knee injury.,Knee,I-R,ARI,LB
 David Irving,Irving has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs and will not be eligible to play until Week 5 against the Packers.,Suspension,out,DAL,DL
@@ -53,10 +54,9 @@ Zac Dysert,Dysert is on injured reserve due to surgery to repair a herniated dis
 Randy Gregory,Gregory is serving a year-long suspension for violations of the league's substance abuse policy.,Suspension,out,DAL,DE
 Shane Ray,Ray suffered a torn ligament in his left wrist and is expected to miss six-to-eight weeks.,Wrist,out,DEN,LB
 Devontae Booker,Booker has been designated for the PUP list with a fracture in his wrist but is expected to be ready for the season opener against the Chargers.,Wrist,I-R,DEN,RB
-Shaquil Barrett,Barrett has landed on the Injured Reserve/Non-Football Injury list with a hip injury but is expected to return sometime in September.,Hip,I-R,DEN,LB
+Jake Butt,Butt has been placed on the Injured Reserve/Non-Football Injury list as he is recovering from offseason surgery to repair a right ACL tear.,Knee,I-R,DEN,TE
 Kyle Peko,Peko has been designated for the PUP list while he recuperates from a surgery to repair a broken right foot.,Foot,I-R,DEN,NT
 Chad Kelly,Kelly is on the Injured Reserve/Non-Football Injury list while he recovers from a wrist injury.,Wrist,I-R,DEN,QB
-Jake Butt,Butt has been placed on the Injured Reserve/Non-Football Injury list as he is recovering from offseason surgery to repair a right ACL tear.,Knee,I-R,DEN,TE
 Matt Paradis,Paradis is recovering from two-offseason surgeries to repair his left and right hips but is expected to be available Week 1 against the Chargers.,Hip,probable,DEN,C
 Billy Winn,Winn has been placed on the injured reserve due to a torn ACL.,Knee,I-R,DEN,DE
 Derek Wolfe,Wolfe suffered a right ankle sprain but will likely be able to suit up for the season opener against the Chargers.,Ankle,probable,DEN,DE
@@ -64,22 +64,23 @@ Khyri Thornton,Thornton has been issued a six-game suspension by the NFL for vio
 Sam Martin,Martin has landed on the Injured Reserve/Non-Football Injury list with an ankle injury.,Ankle,I-R,DET,P
 Taylor Decker,Decker has landed on the PUP list as he underwent surgery to repair a torn labrum in his shoulder and is expected to miss four-to-six months.,Shoulder,I-R,DET,T
 Brandon Copeland,Copeland sustained a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,DET,LB
-Kerry Hyder,Hyder will have surgery to repair a torn Achilles and is on the injured reserve list.,Achilles,I-R,DET,DE
 Mike James,James is on the injured reserve list with a concussion.,Concussion,I-R,DET,RB
+Kerry Hyder,Hyder will have surgery to repair a torn Achilles and is on the injured reserve list.,Achilles,I-R,DET,DE
 Demarcus Lawrence,Lawrence is on injured reserve with an injury to an unannounced location.,Undisclosed,I-R,DET,DE
-Corey Robinson,Robinson has landed on the PUP list while he recuperates from offseason foot surgery.,Foot,I-R,DET,T
 Armonty Bryant,Bryant has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs but is expected to be available against the Bears on October 8.,Suspension,out,DET,DE
-Ezekiel Ansah,Ansah has been placed on the PUP list with as he recuperates from a high-ankle sprain that plagued him for most of the 2016 season.,Ankle,I-R,DET,DE
+Corey Robinson,Robinson has landed on the PUP list while he recuperates from offseason foot surgery.,Foot,I-R,DET,T
 Brandon Chubb,Chubb is on injured reserve due to a knee injury.,Knee,I-R,DET,LB
+Ezekiel Ansah,Ansah has been placed on the PUP list with as he recuperates from a high-ankle sprain that plagued him for most of the 2016 season.,Ankle,I-R,DET,DE
 Montravius Adams,Adams has a stress fracture in his foot and it is unclear if he will be ready for the season opener against the Seahawks.,Foot,questionable,GNB,DT
+Geronimo Allison,Allison has been suspended one game for violating the league's policy on personal conduct and will be eligible to play against the Falcons on September 17.,Suspension,out,GNB,WR
 Demetri Goodson,Goodson is on the PUP list while he recuperates from ACL surgery and his status for Week 7 against the Saints is up in the air.,Knee,I-R,GNB,CB
 Vince Biegel,Biegel is on the PUP list while recuperating from surgery to repair a Jones fracture in his foot. He is expected to be ready for the season opener against the Seahawks.,Ankle,I-R,GNB,LB
-Geronimo Allison,Allison has been suspended one game for violating the league's policy on personal conduct and will be eligible to play against the Falcons on September 17.,Suspension,out,GNB,WR
 Malachi Dupre,Dupre suffered a head injury during the preseason and it is unknown as to how long he will be out.,Head,out,GNB,WR
 Herb Waters,Waters is on injured reserve with a shoulder injury.,Shoulder,I-R,GNB,CB
 David Quessenberry,Quessenberry has been battling lymphoma for the past three years and there is no timetable for a return.,Illness,out,HOU,T
-Duane Brown,Brown has been placed on the reserve/did not report list because he is holding out for a new contract. It is unclear at what point his contract situation will be resolved.,Holdout,out,HOU,T
 Joel Heath,Heath has been placed on the Injured Reserve/Non-Football Injury list with an unknown ailment.,Undisclosed,I-R,HOU,DE
+Duane Brown,Brown has been placed on the reserve/did not report list because he is holding out for a new contract. It is unclear at what point his contract situation will be resolved.,Holdout,out,HOU,T
+Jaelen Strong,Strong has been suspended for one game for a marijuana citation but is appealing the ruling and will be allowed to play until the appeal process has been concluded.,Suspension,out,HOU,WR
 Derek Newton,Newton has been placed on the Injured-Reserve/PUP list while recovering from tears to both of his patellar tendons and will not play in the 2017 season.,Knee,I-R,HOU,T
 Will Fuller,Fuller broke his collarbone in training camp and is expected to be out until the beginning of November.,Collarbone,out,HOU,WR
 Charles Gaines,Gaines has landed on injured reserve with an injury to his eye.,Eye,I-R,JAX,CB
@@ -91,7 +92,6 @@ Carson Tinker,Tinker has landed on the injured reserve list due to a torn ACL.,K
 Derrick Johnson,Johnson is recovering from a torn Achilles that ended his 2017 season and his status for opening day against the Patriots is unknown.,Achilles,questionable,KAN,LB
 Dadi Nicolas,Nicolas has landed on the PUP list with a knee injury.,Knee,I-R,KAN,LB
 Cairo Santos,Santos is nursing a groin strain and it is unclear if he will be ready for the season opener against the Patriots.,Groin,questionable,KAN,K
-Antwan Goodley,Goodley is on the injured reserve list with a hamstring injury.,Hamstring,I-R,KAN,WR
 Tamba Hali,Hali has been placed on the PUP list with a knee injury.,Knee,I-R,KAN,LB
 T.J. McDonald,McDonald has been handed an eight-game suspension for violating the league's substance abuse policy but is expected to make his season debut November 5th against the Raiders.,Suspension,out,MIA,S
 Rashawn Scott,Scott has been designated for the PUP list due to a foot injury.,Foot,I-R,MIA,WR
@@ -113,9 +113,9 @@ Dannell Ellerbe,Ellerbe has been designated for the injured reserve list with a 
 Terron Armstead,Armstead has been placed on the PUP list as he recovers from surgery to repair a torn labrum and will likely remain sidelined until Week 8 against the Bears.,Shoulder,I-R,NOR,T
 Delvin Breaux,Breaux fractured the fibula in his left leg and will likely need four-to-six weeks to recover.,Leg,out,NOR,CB
 Martin Wallace,Wallace has been designated for injured reserve with an unspecified injury.,Undisclosed,I-R,NOR,T
-Dont'a Hightower,Hightower is on the PUP list with an undefined injury.,Undisclosed,I-R,NWE,LB
 Derek Rivers,Rivers is on injured reserve after suffering a torn ACL in his left knee.,Knee,I-R,NWE,DE
 Chase Farris,Farris has been placed on the Injured Reserve/Non-Football Injury list with a torn Achilles.,Achilles,I-R,NWE,OL
+Odell Beckham,Beckham Jr suffered a left ankle injury and his status for Week 1 against the Cowboys is in question.,Ankle,questionable,NYG,WR
 Mykkele Thompson,Thompson has been placed on the injured reserve list after injuring his quadriceps.,Quadricep,I-R,NYG,DB
 Corbin Bryant,Bryant has landed on injured reserve with a dislocated elbow.,Elbow,I-R,NYG,DT
 Kevin Norwood,Norwood has been designated for injured reserve due to a hip injury.,Hip,I-R,NYG,WR
@@ -126,10 +126,10 @@ Jalin Marshall,Marshall has been handed a four-game suspension for violating the
 Jeremy Clark,Clark has been placed on the Injured Reserve/Non-Football Injury list with a knee injury.,Knee,I-R,NYJ,CB
 ArDarius Stewart,Stewart is recovering from surgeries on his thumb and groin. His availability for the season opener against the Bills on September 10 is in question.,Thumb,questionable,NYJ,WR
 Austin Seferian-Jenkins,Seferian-Jenkins has been suspended two games by the NFL for violating the league's substance-abuse policy but is likely to make his season debut September 24 against the Dolphins.,Suspension,out,NYJ,TE
+Quincy Enunwa,Enunwa has been placed on the injured reserve list after having surgery to repair a bulging disc in his neck.,Neck,I-R,NYJ,WR
 Matt Forte,Forte is battling a hamstring injury and his status for Week 1 against the Bills is undetermined.,Hamstring,questionable,NYJ,RB
 Doug Middleton,Middleton sustained a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,NYJ,S
 Lucky Whitehead,Whitehead will require surgery to repair a broken left foot and will miss an extended amount of time.,Foot,out,NYJ,WR
-Quincy Enunwa,Enunwa has been placed on the injured reserve list and will require surgery to repair a bulging disc in his neck.,Neck,I-R,NYJ,WR
 Bryson Keeton,Keeton has been placed on the injured reserve list with a torn ACL.,Knee,I-R,NYJ,CB
 Kevin Dodd,Dodd is battling a foot injury that plagued him for most of the 2016 season but is expected to suit up for the season opener against the Raiders.,Foot,probable,TEN,LB
 Kourtnei Brown,Brown has been placed on the injured reserve with a hamstring injury.,Hamstring,I-R,TEN,LB
@@ -165,6 +165,7 @@ Joe Flacco,Flacco is expected to be ready for the season opener against the Beng
 Maurice Canady,Canady suffered a knee injury and will miss an extended amount of time.,Knee,out,BAL,CB
 Crockett Gillmore,Gillmore has been placed on the injured reserve list with after having MCL surgery.,Knee,I-R,BAL,TE
 Nico Siragusa,Siragusa suffered a torn ACL in his left knee and is expected to miss the remainder of the season.,Knee,out,BAL,G
+Max Tuerk,Turek has been issued a four-game suspension for violating the league's PED policy but is likely to make his season debut during Week 5 against the Giants.,Suspension,out,SDG,C
 Tyreek Burwell,Burwell sustained a broken hand and his status for Week 1 against the Broncos is unclear.,Hand,questionable,SDG,T
 Denzel Perryman,Perryman had surgery to fix a torn ligament in his ankle and is expected to miss eight-to-ten weeks.,Ankle,out,SDG,LB
 Jeremiah Attaochu,Attaochu has a pulled hamstring and his status going forward is week-to-week.,Hamstring,out,SDG,DE
@@ -173,6 +174,7 @@ Asante Cleveland,Cleveland has been placed on injured reserve due to a right kne
 Forrest Lamp,Lamp sustained a torn ACL in his right knee and is expected to miss the entire 2017-18 season.,Knee,out,SDG,G
 Tanner McEvoy,McEvoy had surgery to repair a toe injury and it is unknown as to if he will play against the Packers in the season opener.,Toe,questionable,SEA,WR
 DeShawn Shead,Shead underwent surgery to repair the torn ACL in his left knee during the offseason and there is no timetable for a recovery.,Knee,out,SEA,CB
+Justin Senior,Senior is on the injured reserve list due to a knee injury.,Knee,I-R,SEA,T
 George Fant,Fant suffered a torn ACL in his right knee and is expected to miss the remainder of the season.,Knee,out,SEA,T
 Paul Richardson,Richardson has been diagnosed with an AC joint sprain in his shoulder but is expected to be ready to face the Packers in the season opener.,Shoulder,probable,SEA,WR
 Dion Jordan,Jordan had an operation to repair a knee injury and is on the Injured Reserve/Non-Football Injury list.,Knee,I-R,SEA,DE
