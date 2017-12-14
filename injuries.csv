@@ -7,27 +7,38 @@ Andy Levitre,Levitre sat out the last game due to a partially torn triceps and i
 Tevin Coleman,Coleman is working his way through concussion protocol and his status for Monday's game against the Buccaneers is undecided.,Concussion,questionable,ATL,RB
 Quincy Mauger,Mauger has been placed on the injured reserve list with a knee injury.,Knee,I-R,ATL,S
 Taiwan Jones,Jones is on the injured reserve list after suffering a broken left arm.,Arm,I-R,BUF,RB
-Colt Anderson,Anderson has been designated for the injured reserve list due to an injured arm and it is unknown if he will be activated for Sunday's game against the Dolphins.,Arm,I-R,BUF,S
-Tyrod Taylor,Taylor missed the last game due to a patellar tendon contusion in his left knee and it is unknown if he will suit up Sunday against the Dolphins.,Knee,questionable,BUF,QB
-John Miller,Miller has missed the previous four games with an ankle injury and his status for Sunday's contest against the Dolphins is unclear.,Ankle,questionable,BUF,G
-Seantrel Henderson,"Henderson is hampered by a back injury, leaving his availability foggy for Sunday's matchup against the Dolphins.",Back,questionable,BUF,T
+Andre Holmes,Holmes has a neck injury and it is undetermined if he will play against the Dolphins on Sunday.,Neck,questionable,BUF,WR
+Cordy Glenn,Glenn has been absent from the lineup during the previous four games with injuries to both his foot and ankle. His status is unknown for Sunday's matchup against the Dolphins.,Foot,questionable,BUF,T
+Kyle Williams,Williams is dealing with a nagging groin injury and his status is unclear for Sunday's matchup against the Dolphins.,Groin,questionable,BUF,DT
+Tyrod Taylor,Taylor missed the last game due to a patellar tendon contusion in his left knee but is expected to play Sunday against the Dolphins.,Knee,probable,BUF,QB
+John Miller,Miller has missed the previous four games with an ankle injury but is likely to be available for Sunday's contest against the Dolphins.,Ankle,probable,BUF,G
+LeSean McCoy,McCoy is bothered by a knee injury but is expected to suit up against the Dolphins on Sunday.,Knee,probable,BUF,RB
+Leonard Johnson,Johnson is nursing a knee injury but is expected to suit up Sunday against the Dolphins.,Knee,probable,BUF,CB
+Charles Clay,Clay is dealing with a knee injury and it is uncertain if he will take part in Sunday's tilt against the Dolphins.,Knee,questionable,BUF,TE
 Kelvin Benjamin,Benjamin left the previous game after aggravating a knee injury and his status against the Dolphins on Sunday is in question.,Knee,questionable,BUF,WR
+Seantrel Henderson,"Henderson is hampered by a back injury, leaving his availability foggy for Sunday's matchup against the Dolphins.",Back,questionable,BUF,T
+Colt Anderson,Anderson has been designated for the injured reserve list due to an injured arm and it is unknown if he will be activated for Sunday's game against the Dolphins.,Arm,I-R,BUF,S
 Nathan Peterman,Peterman has been entered into the league's concussion protocol and it is unknown if he will be cleared in time for Sunday's game against the Dolphins.,Concussion,questionable,BUF,QB
 Conor McDermott,McDermott has missed the last two games due to a chest injury and his status is unknown for Sunday's matchup against the Dolphins.,Chest,questionable,BUF,T
-Leonard Johnson,Johnson is nursing a knee injury and it is uncertain if he will suit up Sunday against the Dolphins.,Knee,questionable,BUF,CB
-Cordy Glenn,Glenn was absent from the lineup during the previous four games with injuries to both his foot and ankle. His status is unknown for Sunday's matchup against the Dolphins.,Foot,questionable,BUF,T
-Jordan Matthews,Matthews has been placed on injured reserve with a knee injury.,Knee,I-R,BUF,WR
 Shaq Lawson,Lawson suffered a right knee injury and it is on the injured reserve list.,Knee,I-R,BUF,DE
+Jordan Matthews,Matthews has been placed on injured reserve with a knee injury.,Knee,I-R,BUF,WR
 Keith Towbridge,Towbridge has been designated for injured reserve with an ankle injury.,Ankle,I-R,BUF,TE
 Dan France,France has been placed on the injured reserve with a concussion.,Concussion,I-R,CAR,T
 Teddy Williams,Williams has been placed on the injured reserve with a left arm injury.,Arm,I-R,CAR,CB
 Corn Elder,Elder has been placed on the injured reserve list with a patella stress fracture in his knee.,Knee,I-R,CAR,CB
 Demetrious Cox,Cox is on the injured reserve list with an ankle injury and it is unclear if he will be activated December 24 against the Buccaneers.,Ankle,I-R,CAR,S
 Curtis Samuel,Samuel suffered ligament damage to his ankle and is on the injured reserve list.,Ankle,I-R,CAR,WR
-Tyler Larsen,Larsen is dealing with a foot injury and it is unknown if it will hinder his availability against the Packers on Sunday.,Foot,questionable,CAR,C
-Daeshon Hall,Hall is on the injured reserve list with a hand injury and it is unknown if he will be activated Sunday against the Packers.,Knee,I-R,CAR,DE
+Thomas Davis,Davis is nursing a back injury and it is uncertain if it will obstruct his availability against the Packers on Sunday.,Back,questionable,CAR,LB
+Kaelin Clay,Clay is dealing with a shoulder injury and it is unknown if he will play against the Packers on Sunday.,Shoulder,questionable,CAR,WR
+Russell Shepard,Shepard is battling a shoulder injury and it is undetermined if it will deter him from playing Sunday against the Packers.,Shoulder,questionable,CAR,WR
+Devin Funchess,Funchess is expected to suit up for Sunday's tilt against the Packers despite a shoulder ailment.,Shoulder,probable,CAR,WR
+Trai Turner,Turner is working his way through concussion protocol and it is unknown if he will be cleared prior to Sunday's game against the Packers.,Concussion,questionable,CAR,G
+Brenton Bersin,Bersin has an injured toe and it is unclear if he will play Sunday against the Packers.,Toe,questionable,CAR,WR
+Cam Newton,Newton was confined to a limited role in practice due to a right shoulder injury but is likely to be available against the Packers on Sunday.,Shoulder,probable,CAR,QB
 Shaq Thompson,Thompson is nursing a foot injury and it is unknown if it will deter him from suiting up against the Packers on Sunday.,Foot,questionable,CAR,LB
 Cole Luke,Luke has been placed on the injured reserve list with an ankle injury and it is unclear if he will be activated Sunday against the Packers.,Ankle,I-R,CAR,CB
+Tyler Larsen,Larsen is dealing with a foot injury and it is unknown if it will hinder his availability against the Packers on Sunday.,Foot,questionable,CAR,C
+Daeshon Hall,Hall is on the injured reserve list with a hand injury and it is unknown if he will be activated Sunday against the Packers.,Knee,I-R,CAR,DE
 Jared Norris,Norris has been designated for the injured reserve list with a calf injury.,Calf,I-R,CAR,LB
 John Theus,Theus has been placed on the injured reserve list with a concussion.,Concussion,I-R,CAR,T
 Charles Johnson,Johnson has been issued a four-game suspension for violating the league's policy on performance-enhancing drugs. He will be eligible to return against the Falcons on New Years Eve.,Suspension,out,CAR,DE
@@ -36,18 +47,18 @@ Charles Johnson,Johnson has landed on the injured reserve list as he underwent s
 Kevin White,White suffered a broken shoulder blade and is on the injured reserve list.,Shoulder,I-R,CHI,WR
 Patrick Scales,Scales is on the injured reserve list with a torn ACL.,Knee,I-R,CHI,LS
 Cameron Meredith,Meredith suffered a torn ACL and a slightly torn MCL his left knee. He is on the injured reserve list as a result.,Knee,I-R,CHI,WR
-Jerrell Freeman,"Freeman has landed on injured reserve with a concussion and a pectoral injury. He has also been suspended for 10 games for violating the NFL policy on performance enhancing drugs, effectively ending his season.",Concussion,I-R,CHI,LB
 Willie Young,Young tore his triceps muscle and is on the injured reserve list.,Tricep,I-R,CHI,LB
+Jerrell Freeman,"Freeman has landed on injured reserve with a concussion and a pectoral injury. He has also been suspended for 10 games for violating the NFL policy on performance enhancing drugs, effectively ending his season.",Concussion,I-R,CHI,LB
 Leonard Floyd,Floyd suffered a significant right knee injury and is on injured reserve.,Knee,I-R,CHI,LB
 Zach Miller,Miller has been placed on injured reserve as he underwent urgent vascular surgery to fix artery damage in his dislocated left knee.,Knee,I-R,CHI,TE
-DeAndre Houston-Carson,Houston-Carson is dealing with an ankle injury and it is unknown if he will take part in Saturday's contest against the Lions.,Ankle,questionable,CHI,S
-Kendall Wright,Wright is dealing with a shoulder injury and it is unknown if he will line up against the Lions on Saturday.,Shoulder,questionable,CHI,WR
 Quintin Demps,Demps is on injured reserve while recovering from a broken left arm but has been designated as a player to return. His status for Saturday's game against the Lions is unknown.,Arm,I-R,CHI,S
 Mark Sanchez,Sanchez has missed the last three games due to an illness and his status against the Lions on Saturday is unknown.,Illness,questionable,CHI,QB
 Eddie Goldman,Goldman missed the previous game with a hip injury and it is unclear if he will be available Saturday against the Lions.,Hip,questionable,CHI,NT
 Adrian Amos,Amos has missed the previous two games with an injured hamstring and it is undetermined if he will suit up Saturday against the Lions.,Hamstring,questionable,CHI,S
 Adam Shaheen,Shaheen has a chest injury and it is unclear if he will take part in Saturday's game against the Lions.,Chest,questionable,CHI,TE
 Pernell McPhee,McPhee missed the previous game due to a shoulder injury. His status Saturday against the Lions is unknown.,Shoulder,questionable,CHI,LB
+DeAndre Houston-Carson,Houston-Carson is dealing with an ankle injury and it is unknown if he will take part in Saturday's contest against the Lions.,Ankle,questionable,CHI,S
+Kendall Wright,Wright is dealing with a shoulder injury and it is unknown if he will line up against the Lions on Saturday.,Shoulder,questionable,CHI,WR
 Mitch Unrein,Unrein has been placed on the injured reserve list with a knee injury.,Knee,I-R,CHI,DE
 Kyle Long,Long sustained a shoulder injury and is on the injured reserve list.,Shoulder,I-R,CHI,G
 Cairo Santos,Santos suffered a groin injury and is on the injured reserve list.,Groin,I-R,CHI,K
@@ -58,15 +69,21 @@ Mason Schreck,Schreck has a knee injury and is on the injured reserve list.,Knee
 Tyler Eifert,Eifert is on injured reserve and had surgery to repair a back injury.,Back,I-R,CIN,TE
 Jeremy Hill,Hill is on the injured reserve list due to an ankle injury.,Ankle,I-R,CIN,HB
 Jake Fisher,Fisher requires surgery to correct an irregular heartbeat and is on the injured reserve list.,Heart,I-R,CIN,T
-Vontaze Burfict,Burfict missed the previous game with a concussion and it is unclear if he will suit up Sunday against the Vikings.,Concussion,questionable,CIN,LB
+Tyler Kroft,Kroft is bothered by a hamstring injury and his status is unclear for Sunday's game against the Vikings.,Hamstring,questionable,CIN,TE
+Darqueze Dennard,Dennard has a knee injury and it is unclear if he will partake in Sunday's game against the Vikings.,Knee,questionable,CIN,CB
+Pat Sims,Sims is battling an injured heel and it is uncertain if it will obstruct his availability against the Vikings on Sunday.,Heel,questionable,CIN,DT
+Cedric Ogbuehi,Ogbuehi is nursing a shoulder injury and it is unknown if it will prevent him from playing against the Vikings on Sunday.,Shoulder,questionable,CIN,T
+Kevin Minter,Minter is dealing with a hamstring injury and it is unknown if he will participate in Sunday's contest against the Vikings.,Hamstring,questionable,CIN,LB
+Giovani Bernard,Bernard has an injury to his knee and it is unknown if he will play Sunday against the Vikings.,Knee,questionable,CIN,HB
 Joe Mixon,Mixon is in the league's concussion protocol and it is unknown if he will be cleared prior to Sunday's game against the Vikings.,Concussion,questionable,CIN,HB
 Carlos Dunlap,Dunlap exited the previous game with a chest injury and it is unclear if he will be available Sunday against the Vikings.,Chest,questionable,CIN,DE
 Shawn Williams,Williams has sat out the last three games due to a hamstring injury and it is unclear if he will be active against the Vikings on Sunday.,Hamstring,questionable,CIN,S
+Vontaze Burfict,Burfict missed the previous game with a concussion and it is unclear if he will suit up Sunday against the Vikings.,Concussion,questionable,CIN,LB
 Dre Kirkpatrick,Kirkpatrick missed the previous game due to a concussion and it is undetermined if he will partake in Sunday's contest against the Vikings.,Concussion,questionable,CIN,CB
 Jeff Driskel,Driskel has a thumb injury and is on the IR/Designated for Return list. It is unknown if he will be activated in time for Sunday's matchup against the Vikings.,Thumb,I-R,CIN,QB
 Adam Jones,Jones has landed on the injured reserve list with a groin injury.,Groin,I-R,CIN,CB
-Nick Vigil,Vigil has an ankle injury and is on the injured reserve list.,Ankle,I-R,CIN,LB
 John Ross,Ross has landed on injured reserve due to left shoulder surgery.,Shoulder,I-R,CIN,WR
+Nick Vigil,Vigil has an ankle injury and is on the injured reserve list.,Ankle,I-R,CIN,LB
 Cedric Peerman,Peerman has landed on injured reserve due to a shoulder injury.,Shoulder,I-R,CIN,HB
 Roderick Johnson,Johnson has been designated for injured reserve with a sprained MCL and meniscus injury.,Knee,I-R,CLE,OL
 Joe Thomas,Thomas sustained a torn left triceps and is on the injured reserve list.,Tricep,I-R,CLE,OL
@@ -75,11 +92,15 @@ Jamie Meder,Meder sustained a high-ankle sprain and is on injured reserve.,Ankle
 Jamie Collins,Collins Sr. has been designated for injured reserve with a torn MCL in his knee.,Knee,I-R,CLE,LB
 Reggie Porter,Porter has been designated for the injured reserve list with an Achilles injury.,Achilles,I-R,CLE,DB
 Darius Jackson,Jackson has been placed on injured reserve due to a knee injury.,Knee,I-R,CLE,RB
-Briean Boddy-Calhoun,Boddy-Calhoun missed his previous game with a knee injury and it is unclear if he will partake in Sunday's game against the Ravens.,Knee,questionable,CLE,DB
-Dominique Alexander,Alexander has landed on injured reserve with knee injury and it is undetermined if he will be activated Sunday against the Ravens.,Knee,questionable,CLE,LB
+Jabrill Peppers,Peppers sat out the last game with a knee injury but is expected to be available Sunday against the Ravens.,Knee,probable,CLE,DB
+David Njoku,"Njoku is nursing injuries to his foot and wrist, leaving his availability clouded against the Ravens on Sunday.",Foot,questionable,CLE,TE
+Shon Coleman,"Coleman is dealing with injuries to his shoulder and thumb, leaving his status for Sunday's game against the Ravens up in the air.",Shoulder,questionable,CLE,OL
+J.C. Tretter,Tretter is battling a knee injury and it is uncertain if it will obstruct his availability for Sunday's matchup against the Ravens.,Knee,questionable,CLE,OL
+Jamar Taylor,Taylor has a foot injury and it is unclear if he will partake in Sunday's game against the Ravens.,Foot,questionable,CLE,DB
 Howard Wilson,Wilson is on the PUP list due to a fractured kneecap and it is unclear if he will return for Sundays game against the Ravens.,Knee,I-R,CLE,DB
 Danny Shelton,Shelton missed the previous game with a rib injury leaving his status unknown for Sunday's contest against the Ravens.,Ribs,questionable,CLE,DL
-Jabrill Peppers,Peppers sat out the last game with a knee injury and his status Sunday against the Ravens is undecided.,Knee,questionable,CLE,DB
+Briean Boddy-Calhoun,Boddy-Calhoun missed his previous game with a knee injury and it is unclear if he will partake in Sunday's game against the Ravens.,Knee,questionable,CLE,DB
+Dominique Alexander,Alexander has landed on injured reserve with knee injury and it is undetermined if he will be activated Sunday against the Ravens.,Knee,questionable,CLE,LB
 Kevin Hogan,Hogan is sidelined with a rib injury and there is no timetable for return.,Ribs,out,CLE,QB
 Tank Carder,Carder suffered a torn ACL and is on injured reserve.,Knee,I-R,CLE,LB
 Chris Barker,Barker has been placed on the injured reserve list with a ruptured left Achilles.,Achilles,I-R,CLE,OL
@@ -93,13 +114,13 @@ Henry Anderson,Anderson is on injured reserve with a fractured laryngeal bone.,T
 Quan Bray,Bray has landed on injured reserve after suffering an injury to an undisclosed location.,Undisclosed,I-R,IND,WR
 Andrew Luck,Luck suffered a setback in his recovery from surgery to repair a torn labrum in his shoulder and is on injured reserve as a result.,Shoulder,I-R,IND,QB
 Christine Michael,Michael has been designated for the injured reserve list with an injury to an unannounced location.,Undisclosed,I-R,IND,RB
+Darrell Daniels,Daniels has missed the last three games due to a hamstring injury and will not be available against the Broncos on Thursday.,Hamstring,out,IND,TE
+Ryan Kelly,Kelly has missed the previous two games with a concussion and will not be cleared in time for Thursday's matchup against the Broncos.,Concussion,out,IND,C
+Nate Hairston,Hairston has been diagnosed with a concussion and will not pass protocol in time for Thursday's game against the Broncos.,Concussion,out,IND,CB
+Frank Gore,Gore is expected to suit up against the Broncos on Thursday despite a hand injury.,Hand,probable,IND,RB
+Hassan Ridgeway,Ridgeway has been held out of the previous three games due to a shoulder injury but is expected to suit up Thursday against the Broncos.,Shoulder,probable,IND,DT
 Donte Moncrief,Moncrief was held out of the previous game due to an ankle injury and will not suit up against the Broncos on Thursday.,Ankle,out,IND,WR
 Jack Mewhort,Mewhort is on injured reserve due to a knee injury. It is unknown if he will be able to return for Thursday's contest against the Broncos.,Knee,I-R,IND,T
-Frank Gore,"Gore is dealing with a hand injury, leaving his availability against the Broncos on Thursday unclear.",Hand,questionable,IND,RB
-Darrell Daniels,Daniels has missed the last three games due to a hamstring injury and it is unknown if he will be available against the Broncos on Thursday.,Hamstring,questionable,IND,TE
-Hassan Ridgeway,Ridgeway has been held out of the previous three games due to a shoulder injury but is expected to suit up Thursday against the Broncos.,Shoulder,probable,IND,DT
-Ryan Kelly,Kelly has missed the previous two games with a concussion but is likely to be cleared in time for Thursday's matchup against the Broncos.,Concussion,probable,IND,C
-Nate Hairston,Hairston has been diagnosed with a concussion and it is undetermined if he will pass protocol in time for Thursday's game against the Broncos.,Concussion,questionable,IND,CB
 John Simon,Simon is on the injured reserve list with a right shoulder injury.,Shoulder,I-R,IND,LB
 Pierre Desir,Desir has landed on injured reserve with a torn shoulder muscle.,Shoulder,I-R,IND,CB
 Erik Swoope,Swoope had a knee scope performed and is on the injured reserve list.,Knee,I-R,IND,TE
@@ -112,22 +133,33 @@ D.J. Humphries,Humphries is on the injured reserve list after dislocating his ri
 Tyvon Branch,Branch tore his ACL and is on injured reserve.,Knee,I-R,ARI,S
 Ifeanyi Momah,Momah has been placed on the injured reserve list with a broken leg.,Leg,I-R,ARI,TE
 Daniel Munyer,Munyer suffered a toe injury and is on the injured reserve list.,Toe,I-R,ARI,C
-T.J. Logan,Logan had surgery for a dislocated wrist and is on the injured reserve list. It is undetermined if he will be activated prior to Sunday's game against the Redskins.,Wrist,I-R,ARI,RB
+Corey Peters,Peters is bothered by an ankle injury and his availability is in question against the Redskins on Sunday.,Ankle,questionable,ARI,DL
+Antoine Bethea,Bethea is dealing with a knee injury and it is unknown if he will participate in Sunday's contest against the Redskins.,Knee,questionable,ARI,S
+Josh Mauro,Mauro is nursing an ankle injury and it is uncertain if it will obstruct his availability against the Redskins on Sunday.,Ankle,questionable,ARI,DL
+Adrian Peterson,Peterson is sidelined with a neck injury and it is unclear if he will be able to suit up again this season.,Neck,out,ARI,RB
+Alex Boone,Boone is battling a back injury and it is undetermined if it will prevent him from playing against the Redskins on Sunday.,Back,questionable,ARI,G
+Budda Baker,Baker has a thigh injury and it is unclear if he will partake in Sunday's game against the Redskins.,Thigh,questionable,ARI,S
+Chandler Jones,Jones is tending to a hip injury and it is unclear if it will deter him from suiting up Sunday against the Redskins.,Hip,questionable,ARI,LB
 John Brown,Brown is sidelined with a case of turf toe and it is unknown if he will return to action against the Redskins on Sunday.,Toe,questionable,ARI,WR
-Adrian Peterson,Peterson has sat out the previous two games with a neck injury and it is unclear if he will suit up against the Redskins on Sunday.,Neck,questionable,ARI,RB
-Gabe Martin,Martin left the last game with a hamstring injury and his status Sunday against the Redskins is undecided.,Hamstring,questionable,ARI,LB
+T.J. Logan,Logan had surgery for a dislocated wrist and is on the injured reserve list. It is undetermined if he will be activated prior to Sunday's game against the Redskins.,Wrist,I-R,ARI,RB
 Aaron Brewer,Brewer is on the IR/Designated for Return list after having surgery to fix a broken hand and it is uncertain if he will return Sunday against the Redskins.,Hand,I-R,ARI,LS
-Earl Watford,Watford has a high-ankle sprain and there is no timetable for recovery.,Ankle,out,ARI,G
+Gabe Martin,Martin left the last game with a hamstring injury and his status Sunday against the Redskins is undecided.,Hamstring,questionable,ARI,LB
 Jared Veldheer,Veldheer suffered a cracked ankle and is on the injured reserve list.,Ankle,I-R,ARI,T
+Earl Watford,Watford has a high-ankle sprain and there is no timetable for recovery.,Ankle,out,ARI,G
 Rudy Ford,Ford has been designated for the injured reserve list with a knee injury.,Knee,I-R,ARI,S
 Ronald Zamort,Zamort has landed on injured reserve due to a torn ACL.,Knee,I-R,ARI,CB
 Duke Thomas,Thomas has been placed on the injured reserve list with a knee injury.,Knee,I-R,DAL,CB
 Ezekiel Elliott,Elliott has been issued a six-game suspension for violating the league's personal conduct policy and will be eligible to return against the Seahawks on December 24.,Suspension,out,DAL,RB
 Brian Price,Price has been placed on the injured reserve list with a knee injury.,Knee,I-R,DAL,DT
-Justin Durant,Durant missed his second-straight game due to a concussion and it is undetermined if he will be cleared in time for Sunday's matchup against the Raiders.,Concussion,questionable,DAL,LB
-Dan Bailey,Bailey is dealing with a hamstring injury and his status is unclear for Sunday's game against the Raiders.,Hamstring,questionable,DAL,K
+Maliek Collins,Collins is battling a foot injury and it is uncertain if he will be a participant in Sunday's tilt against the Raiders.,Foot,questionable,DAL,DT
+Sean Lee,Lee is tending to an injured hamstring and it is undetermined if it will obstruct his availability against the Raiders on Sunday.,Hamstring,questionable,DAL,LB
+James Hanna,Hanna is dealing with a knee injury and it is unknown if he will suit up Sunday against the Raiders.,Knee,questionable,DAL,TE
+La'el Collins,Collins has a back injury and it is unclear if he will play Sunday against the Raiders.,Back,questionable,DAL,T
+Tyron Smith,Smith is nursing a back injury and it is uncertain if he will suit up against the Raiders on Sunday.,Back,questionable,DAL,T
 Brice Butler,Butler missed the last game with a foot injury and it is unclear if he will be available against the Raiders on Sunday.,Foot,questionable,DAL,WR
 Orlando Scandrick,Scandrick sat out the last game with two transverse process fractures in his back it is uncertain if he will play against the Raiders on Sunday.,Back,questionable,DAL,CB
+Justin Durant,Durant missed his second-straight game due to a concussion and it is undetermined if he will be cleared in time for Sunday's matchup against the Raiders.,Concussion,questionable,DAL,LB
+Dan Bailey,Bailey is dealing with a hamstring injury and his status is unclear for Sunday's game against the Raiders.,Hamstring,questionable,DAL,K
 David Irving,Irving missed the previous game due to a concussion and it is unknown if he will be cleared prior to Sunday's contest against the Raiders.,Concussion,questionable,DAL,DL
 Charles Tapper,Tapper has landed on injured reserve with a foot injury.,Foot,I-R,DAL,DE
 Connor Hamlett,Hamlett has been placed on injured reserve with a broken fibula.,Calf,I-R,DAL,TE
@@ -141,11 +173,11 @@ Paxton Lynch,Lynch is expected to miss two-to-four weeks with a right high-ankle
 Menelik Watson,Watson has a foot injury and has been placed on the injured reserve list.,Foot,I-R,DEN,T
 Jake Butt,Butt has been placed on the injured reserve list as he is recovering from offseason surgery to repair a right ACL tear.,Knee,I-R,DEN,TE
 Chad Kelly,Kelly is on injured reserve while he recovers from a wrist injury.,Wrist,I-R,DEN,QB
+Jamal Carter,Carter has a shoulder injury but it is not expected to prevent him from suiting up in Thursday's game against the Colts.,Shoulder,probable,DEN,S
+Justin Simmons,Simmons has been placed on the injured reserve list with an ankle injury.,Ankle,I-R,DEN,S
 Billy Turner,Turner is on the injured reserve list while recovering from surgery to repair a broken hand and it is uncertain if he will be activated against the Colts on Thursday.,Hand,I-R,DEN,G
 Domata Peko,Peko Sr. has sat out the previous two games after sustaining a second-degree sprained MCL in his right knee but is expected to return against the Colts on Thursday.,Knee,probable,DEN,NT
 Todd Davis,Davis departed the laset game to be evaluated for a concussion but will likely be cleared in time for Thursday's game against the Colts.,Concussion,probable,DEN,LB
-Jamal Carter,Carter has a shoulder injury and it is unclear if he will take part in Thursday's game against the Colts.,Shoulder,questionable,DEN,S
-Justin Simmons,Simmons left the previous game with an ankle injury and it is unknown if he will suit up against the Colts on Thursday.,Ankle,questionable,DEN,S
 Ronald Leary,Leary has landed on the injured reserve list with a back injury.,Back,I-R,DEN,G
 Derek Wolfe,Wolfe is on the injured reserve list with a neck injury.,Neck,I-R,DEN,DE
 Billy Winn,Winn has been placed on the injured reserve due to a torn ACL.,Knee,I-R,DEN,DE
@@ -153,17 +185,18 @@ Kasey Redfern,Redfern has been designated for injured reserve as he tore his ACL
 Haloti Ngata,Ngata suffered a torn biceps and is on the injured reserve list.,Bicep,I-R,DET,DT
 Zac Kerin,Kerin is on injured reserve with a knee injury.,Knee,I-R,DET,G
 Tavon Wilson,Wilson will require surgery to repair a left shoulder injury and is on the injured reserve list.,Shoulder,I-R,DET,S
-Taylor Decker,Decker is nursing a shoulder injury and it is uncertain if he will compete against the Bears on Saturday.,Shoulder,questionable,DET,T
+Matthew Stafford,Stafford is expected to be available against the Bears on Saturday despite a hand injury.,Hand,probable,DET,QB
 Emmett Cleary,Cleary missed the last game due to an ankle injury but it is not expected to keep him from playing against the Bears on Saturday.,Ankle,probable,DET,T
-Dwayne Washington,Washington has missed the last four games due to a hip injury and it is undetermined if he will return against the Bears on Saturday.,Hip,questionable,DET,RB
+Ricky Wagner,Wagner missed his second-straight game with an ankle injury and his status for Saturday's contest against the Bears is undecided.,Ankle,questionable,DET,T
 Ezekiel Ansah,Ansah is dealing with an ankle injury and it is uncertain if it will keep him out of Saturday's lineup against the Bears.,Ankle,questionable,DET,DE
-Travis Swanson,"Swanson suffered a concussion in the previous game, leaving his availability against the Bears on Saturday in question.",Concussion,questionable,DET,C
 Ameer Abdullah,Abdullah has sat out the past two games with a neck injury but is likely to be available Saturday against the Bears.,Neck,probable,DET,RB
 Nevin Lawson,Lawson is ailing from an illness and it is unknown if it will obstruct his availability against the Bears on Saturday.,Illness,questionable,DET,CB
 T.J. Lang,Lang has a foot injury and it is unclear if he will partake in Saturday's game against the Bears.,Foot,questionable,DET,G
-Ricky Wagner,Wagner missed his second-straight game with an ankle injury and his status for Saturday's contest against the Bears is undecided.,Ankle,questionable,DET,T
+Dwayne Washington,Washington has missed the last four games due to a hip injury and it is undetermined if he will return against the Bears on Saturday.,Hip,questionable,DET,RB
+Travis Swanson,"Swanson suffered a concussion in the previous game, leaving his availability against the Bears on Saturday in question.",Concussion,questionable,DET,C
 Jamal Agnew,Agnew has been held out of the previous three games with a knee injury but is likely to suit up Saturday against the Bears.,Knee,probable,DET,CB
 Corey Robinson,Robinson is battling a foot injury and it is undetermined if he will participate in Saturday's matchup against the Bears.,Foot,questionable,DET,T
+Taylor Decker,Decker is nursing a shoulder injury and it is uncertain if he will compete against the Bears on Saturday.,Shoulder,questionable,DET,T
 Jordan Hill,Hill has been designated for the injured reserve list due to a biceps injury.,Bicep,I-R,DET,DT
 Brandon Copeland,Copeland sustained a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,DET,LB
 Mike James,James is on the injured reserve list with a concussion.,Concussion,I-R,DET,RB
@@ -174,11 +207,14 @@ Quinten Rollins,Rollins suffered an Achilles injury and is on the injured reserv
 Bryan Bulaga,Bulaga suffered a torn ACL in his knee and has been placed on the injured reserve list.,Knee,I-R,GNB,T
 Kentrell Brice,Brice is dealing with an ankle injury and has been placed on the injured reserve list.,Ankle,I-R,GNB,S
 Taybor Pepper,Pepper broke his foot and is on the injured reserve list.,Foot,I-R,GNB,LS
+Jake Ryan,Ryan has a knee injury and it is unclear if he will take part in Sunday's contest against the Panthers.,Knee,questionable,GNB,LB
+Quinton Dial,Dial is nursing injuries to his chest and knee. It is unknown if he will play against the Panthers on Sunday.,Chest,questionable,GNB,DT
+Ahmad Brooks,Brooks is dealing with a back injury and it is unknown if he will play Sunday against the Panthers.,Back,questionable,GNB,LB
+Nick Perry,Perry is nursing injuries to his foot and shoulder. It is unknown if he will be a participant in Sunday's matchup against the Panthers.,Foot,questionable,GNB,LB
+Kyle Murphy,Murphy was placed on injured reserve with a foot injury and it is uncertain if he will be activated against the Panthers on Sunday.,Foot,I-R,GNB,T
 Demetri Goodson,Goodson has been activated from the PUP list as he has recovered from ACL surgery and it is unknown if he will be ready to make his season debut Sunday against the Panthers due to a hamstring injury.,Hamstring,questionable,GNB,CB
 Aaron Rodgers,Rodgers is on injured reserve following surgery to repair a broken right collarbone but is expected to return Sunday against the Panthers.,Collarbone,I-R,GNB,QB
 Davon House,House sustained a transverse process in his back and his status for Sunday's game against the Panthers is in doubt.,Back,doubtful,GNB,CB
-Nick Perry,Perry is nursing injuries to his foot and shoulder. It is unknown if he will be a participant in Sunday's matchup against the Panthers.,Foot,questionable,GNB,LB
-Kyle Murphy,Murphy was placed on injured reserve with a foot injury and it is uncertain if he will be activated against the Panthers on Sunday.,Foot,I-R,GNB,T
 Kevin King,King has landed on the injured reserve list due to a shoulder injury.,Shoulder,I-R,GNB,CB
 Ty Montgomery,Montgomery is on injured reserve due to a wrist injury.,Wrist,I-R,GNB,RB
 Herb Waters,Waters is on injured reserve with a shoulder injury.,Shoulder,I-R,GNB,CB
@@ -192,11 +228,19 @@ Chris Clark,Clark sustained an ankle injury and has landed on the injured reserv
 Ben Heeney,Heeney has landed on the injured reserve list with a hamstring injury.,Hamstring,I-R,HOU,LB
 D'Onta Foreman,Foreman is on injured reserve with a torn Achilles.,Achilles,I-R,HOU,RB
 Deshaun Watson,Watson suffered a torn right ACL and has been designated for the injured reserve list.,Knee,I-R,HOU,QB
-Julie'n Davenport,Davenport missed his fourth-straight game with a shoulder injury and it is undetermined if he will return Sunday against the Jaguars.,Shoulder,questionable,HOU,T
-Tom Savage,Savage departed the previous game due to a concussion and his status for Sunday's matchup against the Jaguars is in doubt.,Concussion,doubtful,HOU,QB
-Braxton Miller,Miller missed the previous game with a concussion and it is unclear if he will be cleared in time for Sunday's contest against the Jaguars.,Concussion,questionable,HOU,WR
+Joel Heath,Heath is tending to a knee injury and it is uncertain if he will be a participant in Sunday's contest against the Jaguars.,Knee,questionable,HOU,DE
+Xavier Su'a-Filo,Su'a-Filo is hampered by a groin injury and his status for Sunday's tilt against the Jaguars is up in the air.,Groin,questionable,HOU,G
+Tom Savage,Savage departed the previous game due to a concussion and will not be available for Sunday's matchup against the Jaguars.,Concussion,out,HOU,QB
+Andre Ellington,Ellington is nursing a knee injury and it is uncertain if he will suit up Sunday against the Jaguars.,Knee,questionable,HOU,RB
+Braxton Miller,Miller missed the previous game with a concussion and is not expected to be cleared in time for Sunday's contest against the Jaguars.,Concussion,doubtful,HOU,WR
+Jeff Allen,Allen has a groin injury and it is unclear if he will play Sunday against the Jaguars.,Groin,questionable,HOU,G
+Andre Hal,Hal is battling a knee injury and it is undetermined if he will suit up against the Jaguars on Sunday.,Knee,questionable,HOU,S
+Brian Peters,Peters is bothered by a hamstring injury and his availability for Sunday's matchup against the Jaguars is clouded.,Hamstring,questionable,HOU,LB
+Lamar Miller,Miller has a knee injury and it is unclear if he will take part in Sunday's game against the Jaguars.,Knee,questionable,HOU,RB
+Jadeveon Clowney,Clowney is dealing with an injury to his knee and an illness. It is unknown if he will play against the Jaguars on Sunday.,Knee,questionable,HOU,DE
+Alfred Blue,Blue sat out the previous game due to a concussion but is likely to be available against the Jaguars on Sunday.,Concussion,probable,HOU,RB
 Kendall Lamm,Lamm has entered the league-mandated concussion protocol and his availability for Sunday's game against the Jaguars is in question.,Concussion,questionable,HOU,T
-Alfred Blue,Blue sat out the previous game due to a concussion and it is unknown if he will be available against the Jaguars on Sunday.,Concussion,questionable,HOU,RB
+Julie'n Davenport,Davenport missed his fourth-straight game with a shoulder injury and it is undetermined if he will return Sunday against the Jaguars.,Shoulder,questionable,HOU,T
 Jelani Jenkins,Jenkins was held out of the last game due to a concussion and it is unknown if he will suit up against the Jaguars on Sunday.,Concussion,questionable,HOU,LB
 C.J. Fiedorowicz,Fiedorowicz suffered a concussion and is on the injured reserve list.,Concussion,I-R,HOU,TE
 Bruce Ellington,Ellington has landed on the injured reserve list with a hamstring injury.,Hamstring,I-R,HOU,WR
@@ -207,45 +251,64 @@ Mychal Rivera,Rivera has landed on injured reserve due to a wrist injury.,Wrist,
 Rashad Greene,Greene Sr. is on the injured reserve list with an unknown ailment.,Undisclosed,I-R,JAX,WR
 Arrelious Benn,Benn has been placed on injured reserve with a knee injury.,Knee,I-R,JAX,WR
 Matt Overton,Overton has landed on the injured reserve list with a shoulder injury.,Shoulder,I-R,JAX,LS
-Telvin Smith,Smith has sat out the previous two games due to a concussion it is unknown if he will be cleared in time for Sunday's matchup against the Texans.,Concussion,questionable,JAX,LB
+Cam Robinson,Robinson is dealing with a back injury and it is unknown if he will play against the Texans on Sunday.,Back,questionable,JAX,OL
+Larry Pinkard,Pinkard has a concussion and it is unclear if he will be cleared in time for Sunday's game against the Texans.,Concussion,questionable,JAX,WR
+Marqise Lee,Lee was confined to a limited role in practice due to a foot injury and it is uncertain if he will suit up Sunday against the Texans.,Foot,questionable,JAX,WR
+Telvin Smith,Smith has sat out the previous two games due to a concussion but has cleared protocol and will likely play Sunday against the Texans.,Concussion,probable,JAX,LB
+Leonard Fournette,Fournette is limited by a quadriceps injury but is likely to play Sunday against the Texans.,Quadricep,probable,JAX,RB
 Chris Reed,Reed missed the last game due to a knee injury and it is unclear if he will be in the lineup Sunday against the Texans.,Knee,questionable,JAX,OL
 Allen Hurns,Hurns has been held out of the past four games with an ankle injury and it is uncertain if he will return to the lineup against the Texans on Sunday.,Ankle,questionable,JAX,WR
 Eric Berry,Berry is on the injured reserve list with a ruptured left Achilles tendon.,Achilles,I-R,KAN,DB
-Ashton Lampkin,Lampkin has been designated for the injured reserve list due to a torn ACL.,Knee,I-R,KAN,DB
 Spencer Ware,Ware had season-ending surgery for a torn PCL and LCL in his right knee. He is on the injured reserve list as a result.,Knee,I-R,KAN,RB
-Chris Conley,Conley ruptured his Achilles tendon and is on the injured reserve list.,Achilles,I-R,KAN,WR
+Ashton Lampkin,Lampkin has been designated for the injured reserve list due to a torn ACL.,Knee,I-R,KAN,DB
 Parker Ehinger,Ehinger is sidelined due to a knee injury and there is no timetable for return.,Knee,out,KAN,OL
+Chris Conley,Conley ruptured his Achilles tendon and is on the injured reserve list.,Achilles,I-R,KAN,WR
+Kevin Pierre-Louis,Pierre-Louis is nursing an injured quadriceps and it is uncertain it will obstruct his availability against the Chargers on Saturday.,Quadricep,questionable,KAN,LB
+Eric Murray,Murray has been absent from the lineup during the past two games with a high-ankle sprain but is likely to play Saturday against the Chargers.,Ankle,probable,KAN,DB
 Mitch Morse,Morse sat out the previous game due to a left foot injury and it is unclear if he will be available against the Chargers on Saturday.,Foot,questionable,KAN,OL
 Tamba Hali,Hali is has a lingering knee injury and it is undetermined if it will deter his availability for Saturday's game against the Chargers.,Knee,questionable,KAN,LB
-Eric Murray,Murray has been absent from the lineup during the past two games with a high-ankle sprain and it is unknown if he will play Saturday against the Chargers.,Ankle,questionable,KAN,DB
 Steven Terrell,Terrell has been placed on the injured reserve list with an unspecified ailment.,Undisclosed,I-R,KAN,DB
 Dee Ford,Ford has been designated for the injured reserve list with a knee injury.,Back,I-R,KAN,WR
 Dadi Nicolas,Nicolas is on the PUP list with a knee injury.,Knee,I-R,KAN,LB
 Tony Lippett,Lippett has been designated for injured reserve due to a torn Achilles.,Achilles,I-R,MIA,CB
 Raekwon McMillan,McMillan tore his ACL and is on the injured reserve list.,Knee,I-R,MIA,LB
-Anthony Steen,Steen had surgery to repair a foot injury and it is unknown if he will be activated in time for Week 17 against the Bills.,Foot,I-R,MIA,C
 Nate Allen,Allen suffered a calf injury and it is on injured reserve. He is eligible to be activated against the Bills in Week 17.,Calf,I-R,MIA,S
+Anthony Steen,Steen had surgery to repair a foot injury and it is unknown if he will be activated in time for Week 17 against the Bills.,Foot,I-R,MIA,C
 William Hayes,Hayes is on injured reserve as he requires hamstring surgery.,Hamstring,I-R,MIA,DE
 Ja'Wuan James,James sustained a hamstring injury and has landed on injured reserve.,Hamstring,I-R,MIA,T
 Koa Misi,Misi has landed on injured reserve with a neck injury.,Neck,I-R,MIA,LB
+Jordan Phillips,Phillips is battling an ankle injury and it is uncertain if it will deter his availability against the Bills on Sunday.,Ankle,questionable,MIA,DT
+Xavien Howard,Howard is ailing from an illness and it is unknown if he will play against the Bills on Sunday.,Illness,questionable,MIA,CB
+Andre Branch,Branch has a knee injury and it is unclear if he will play Sunday against the Bills.,Knee,questionable,MIA,DE
+Ndamukong Suh,Suh is nursing a knee injury and it is undetermined if he will suit up against the Bills on Sunday.,Knee,questionable,MIA,DT
+Mike Pouncey,Pouncey is dealing with a hip injury and it is uncertain if he will suit up Sunday against the Bills.,Hip,questionable,MIA,C
 Damien Williams,Williams is recovering from a dislocated left shoulder and it is unknown if he will return Sunday against the Bills.,Shoulder,questionable,MIA,RB
-Eric Smith,Smith has been placed on the IR/Designated for Return list with a knee injury. He has returned to practice but it is unknown if he will be activated for Sunday's matchup against the Bills.,Knee,I-R,MIA,T
-Jermon Bushrod,Bushrod has been held out of the previous three games with a foot injury and it is unknown if he will play against the Bills on Sunday.,Foot,questionable,MIA,G
-Michael Thomas,Thomas is dealing with a lingering PCL injury and his status for Sunday's game against the Bills is unknown.,Knee,questionable,MIA,S
-Cordrea Tankersley,Tankersley missed the previous game with an ankle injury and his status is unclear for Sunday's game against the Bills.,Ankle,questionable,MIA,CB
 Matt Moore,Moore has missed two-straight games with a foot injury and his availability against the Bills on Sunday is unclear.,Foot,questionable,MIA,QB
+Michael Thomas,Thomas is dealing with a lingering PCL injury and his status for Sunday's game against the Bills is unknown.,Knee,questionable,MIA,S
+Jermon Bushrod,Bushrod has been held out of the previous three games with a foot injury and it is unknown if he will play against the Bills on Sunday.,Foot,questionable,MIA,G
+Cordrea Tankersley,Tankersley missed the previous game with an ankle injury and his status is unclear for Sunday's game against the Bills.,Ankle,questionable,MIA,CB
+Eric Smith,Smith has been placed on the IR/Designated for Return list with a knee injury. He has returned to practice but it is unknown if he will be activated for Sunday's matchup against the Bills.,Knee,I-R,MIA,T
 Maurice Smith,Smith has been placed on the IR/Non-Football Illness list with an abdomen issue.,Abdominal,I-R,MIA,S
 Isaiah Ford,Ford has been placed on the injured reserve with a knee injury.,Knee,I-R,MIA,WR
 Ryan Tannehill,Tannehill suffered a partially torn ACL in his right knee and is on the injured reserve list.,Knee,I-R,MIA,QB
 Lamin Barrow,Barrow has been placed on the injured reserve list with a foot injury.,Foot,I-R,MIA,LB
 Dalvin Cook,Cook has been designated for the injured reserve list due to a torn left ACL.,Knee,I-R,MIN,RB
-Sam Bradford,Bradford had his left knee scoped and has been placed on the injured reserve list.,Knee,I-R,MIN,QB
 Sharrif Floyd,Floyd has landed on the Injured Reserve/Non-Football Injury list as he is recuperating from meniscus surgery. Team officials are concerned that it could be career-threatening as he is experiencing complications in his recovery.,Knee,I-R,MIN,DT
-Mike Remmers,Remmers sat out the previous two games due to a concussion. He has cleared protocol but has picked up a back injury and it is uncertain if he will be active for Sunday's matchup against the Bengals.,Back,questionable,MIN,T
-David Morgan,Morgan missed the previous game while suffering from a concussion and it is undetermined if he will be able to suit up against the Bengals on Sunday.,Concussion,questionable,MIN,TE
+Sam Bradford,Bradford had his left knee scoped and has been placed on the injured reserve list.,Knee,I-R,MIN,QB
+Emmanuel Lamur,Lamur is nursing a foot injury and it is uncertain if it will deter him from suiting up against the Bengals on Sunday.,Foot,questionable,MIN,LB
+Blake Bell,Bell is dealing with a shoulder injury and it is unknown if he will be a participant in Sunday's contest against the Bengals.,Shoulder,questionable,MIN,TE
+Shamar Stephen,Stephen is bothered by a shoulder injury and it is unclear if he will be in Sunday's lineup against the Bengals.,Shoulder,questionable,MIN,DT
+Xavier Rhodes,Rhodes is battling a hip injury and it is undetermined if it will obstruct his availability against the Bengals on Sunday.,Hip,questionable,MIN,CB
+Jerick McKinnon,McKinnion is likely to play Sunday against the Bengals despite a shoulder injury.,Shoulder,probable,MIN,RB
+Linval Joseph,Joseph is tending to a knee injury and his availability for Sunday's tilt against the Bengals is undecided.,Knee,questionable,MIN,DT
+Adam Thielen,Thielen is expected to suit up against the Bengals on Sunday despite a knee injury.,Knee,probable,MIN,WR
+Mackensie Alexander,Alexander has injured ribs and it is unclear if he will take part in Sunday's game against the Bengals.,Ribs,questionable,MIN,CB
+Jeremiah Sirles,Sirles is hampered by a knee injury and his status for Sunday's matchup against the Bengals is clouded.,Knee,questionable,MIN,G
+Riley Reiff,Reiff departed the previous game with an ankle injury and his status Sunday against the Bengals is up in the air.,Ankle,questionable,MIN,T
 Pat Elflein,Elflein missed the last contest with a shoulder injury and his availability for Sunday's game against the Bengals is in question.,Shoulder,questionable,MIN,C
 Kyle Rudolph,Rudolph has an injured foot and it is undetermined if he will take part in Sunday's game against the Bengals.,Foot,questionable,MIN,TE
-Riley Reiff,Reiff departed the previous game with an ankle injury and his status Sunday against the Bengals is up in the air.,Ankle,questionable,MIN,T
+Mike Remmers,Remmers sat out the previous two games due to a concussion. He has cleared protocol but has picked up a back injury and it is uncertain if he will be active for Sunday's matchup against the Bengals.,Back,questionable,MIN,T
+David Morgan,Morgan missed the previous game while suffering from a concussion and it is undetermined if he will be able to suit up against the Bengals on Sunday.,Concussion,questionable,MIN,TE
 Bishop Sankey,Sankey has been placed on the injured reserve list with a knee injury.,Knee,I-R,MIN,RB
 Jon Dorenbos,Dorenbos underwent heart surgery to repair an aortic aneuysm and is on the Injured Reserve/Non-Football Injury list.,Heart,I-R,NOR,LS
 Alex Anzalone,Anzalone suffered a right shoulder injury and is on the injured reserve list.,Shoulder,I-R,NOR,LB
@@ -257,10 +320,11 @@ Daniel Lasco,Lasco suffered a bulging disc and is on the injured reserve list.,S
 Delvin Breaux,Breaux is on the injured reserve list with a fractured fibula in his left leg.,Leg,I-R,NOR,CB
 Nick Fairley,Fairley has been placed on the Injured Reserve/Non-Football Illness list due to a heart condition.,Heart,I-R,NOR,DT
 Dan Arnold,Arnold is on the injured reserve list with an unspecified ailment.,Undisclosed,I-R,NOR,WR
-Andrus Peat,Peat sat out the last game due to a groin injury and it is undetermined if he will suit up against the Jets on Sunday.,Groin,questionable,NOR,T
-David Onyemata,Onyemata suffered an unspecified injury in the last game and it is unclear if he will play against the Jets on Sunday.,Undisclosed,questionable,NOR,DT
+Josh Hill,Hill has a shoulder injury and it is unclear if he will play Sunday against the Jets.,Shoulder,questionable,NOR,TE
 Trey Hendrickson,Hendrickson departed the last game due to a left ankle injury and it is unclear if he will play against the Jets on Sunday.,Ankle,questionable,NOR,DE
 Ted Ginn,"Ginn injured his ribs in the last game, leaving his availability in question Sunday against the Jets.",Ribs,questionable,NOR,WR
+Andrus Peat,Peat sat out the last game due to a groin injury and it is undetermined if he will suit up against the Jets on Sunday.,Groin,questionable,NOR,T
+David Onyemata,Onyemata suffered an unspecified injury in the last game and it is unclear if he will play against the Jets on Sunday.,Undisclosed,questionable,NOR,DT
 Kenny Vaccaro,Vaccaro was lifted from the last game due to a groin injury and his status for Sunday's matchup against the Jets is undecided.,Groin,questionable,NOR,S
 A.J. Klein,Klein exited the previous game due to a groin injury and his availability for Sunday's contest against the Jets is in question.,Groin,questionable,NOR,LB
 Alvin Kamara,Kamara left the previous game with a concussion but is expected to pass protocol in time for Sunday's contest against the Jets.,Concussion,probable,NOR,RB
@@ -274,38 +338,51 @@ Keionta Davis,Davis has been designated for injured reserve as he is recovering 
 Cyrus Jones,Jones suffered a torn ACL in his right knee and is on injured reserve as a result.,Knee,I-R,NWE,CB
 Harvey Langi,Langi has been placed on the IR/Non-Football Injury list due to a back injury.,Back,I-R,NWE,LB
 Andrew Jelks,Jelks has landed on the Injured Reserve/Non-Football Injury list due to a knee injury.,Knee,I-R,NWE,OL
-Nate Ebner,Ebner has landed on injured reserve due to a knee injury.,Knee,I-R,NWE,DB
 Martellus Bennett,Bennett has been placed on the injured reserve list with a torn rotator cuff and a hamstring injury.,Shoulder,I-R,NWE,TE
-Shea McClellin,McClellin has been placed on the IR/Designated for Return list with a concussion and is expected to miss the remainder of the season.,Concussion,I-R,NWE,LB
+Nate Ebner,Ebner has landed on injured reserve due to a knee injury.,Knee,I-R,NWE,DB
 Dont'a Hightower,Hightower suffered a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,NWE,LB
-Kyle Van Noy,Van Noy missed the last game due to a leg injury and his availability for Sunday's contest against the Steelers is in question.,Leg,questionable,NWE,LB
+Shea McClellin,McClellin has been placed on the IR/Designated for Return list with a concussion and is expected to miss the remainder of the season.,Concussion,I-R,NWE,LB
+Marcus Cannon,Cannon has been placed on the injured reserve list with an ankle injury.,Ankle,I-R,NWE,OL
+Eric Lee,Lee is battling an ankle injury and it is undetermined if he will suit up against the Steelers on Sunday.,Ankle,questionable,NWE,DE
+Stephon Gilmore,Gilmore is nursing an ankle injury and it is unknown if he will play against the Steelers on Sunday.,Ankle,questionable,NWE,CB
+LaAdrian Waddle,Waddle is bothered by an ankle injury and it is unknown if it will obstruct his availability against the Steelers on Sunday.,Ankle,questionable,NWE,OL
+Malcolm Butler,Butler has an ankle injury and it is unclear if he will play Sunday against the Steelers.,Ankle,questionable,NWE,CB
+Tom Brady,Brady is expected to be available against the Steelers on Sunday despite a lingering Achilles injury.,Achilles,probable,NWE,QB
+Chris Hogan,Hogan was confined to a limited role in practice with a shoulder injury but is likely to play against the Steelers on Sunday.,Shoulder,probable,NWE,WR
+David Harris,Harris is nursing an ankle injury and it is uncertain if he will suit up Sunday against the Steelers.,Ankle,questionable,NWE,LB
+Deatrich Wise Jr.,Wise is hampered by a foot injury and it is undetermined if it will deter him from suiting up against the Steelers on Sunday.,Foot,questionable,NWE,DL
+Mike Gillislee,Gillislee sat out the last game with an illness but is likely to be available for Sunday's game against the Steelers.,Illness,probable,NWE,RB
+Matt Slater,Slater is tending to a hamstring injury and it is uncertain if he will be a participant in Sunday's tilt against the Steelers.,Hamstring,questionable,NWE,WR
+Malcolm Mitchell,Mitchell is hampered by a knee injury and is on the injured reserve list.,Knee,I-R,NWE,WR
 Alan Branch,Branch exited the last game with a knee injury and his status against the Steelers on Sunday is unclear.,Knee,questionable,NWE,DL
 Brandon King,King was absent from the previous game's lineup due to a hamstring injury and it is unknown if the ailment will deter him from lining up against the Steelers on Sunday.,Hamstring,questionable,NWE,DB
-Mike Gillislee,Gillislee sat out the last game with an illness and his status is uncertain for Sunday's game against the Steelers.,Illness,questionable,NWE,RB
-Trey Flowers,Flowers missed the last two games with a rib injury and his status for Sunday's tilt against the Steelers is unknown.,Ribs,questionable,NWE,DL
-Marcus Cannon,Cannon has been sidelined with an ankle injury and it is unknown when he will be ready to rejoin the lineup.,Ankle,out,NWE,OL
 Vincent Valentine,Valentine has landed on the injured reserve list with a knee injury and it is uncertain if he will be activated Sunday against the Steelers.,Knee,I-R,NWE,DT
-Malcolm Mitchell,Mitchell is hampered by a knee injury and is on the injured reserve list.,Knee,I-R,NWE,WR
+Kyle Van Noy,Van Noy missed the last game due to a leg injury and his availability for Sunday's contest against the Steelers is in question.,Leg,questionable,NWE,LB
+Trey Flowers,Flowers missed the last two games with a rib injury and his status for Sunday's tilt against the Steelers is unknown.,Ribs,questionable,NWE,DL
 Antonio Garcia,Garcia has landed on the Injured Reserve/Non-Football Illness list with an unspecified illness.,Illness,I-R,NWE,OL
 Derek Rivers,Rivers is on injured reserve after suffering a torn ACL in his left knee.,Knee,I-R,NWE,DE
 Mark Herzlich,Herzlich is battling a stinger and is on injured reserve.,Stinger,I-R,NYG,LB
 Josh Banks,Banks has been placed on the injured reserve list with a shoulder injury.,Shoulder,I-R,NYG,DT
 Brandon Marshall,Marshall has been placed on injured reserve due to left ankle surgery.,Ankle,I-R,NYG,WR
-Dwayne Harris,Harris is on injured reserve due to a fracture of his fifth metatarsal in his foot.,Foot,I-R,NYG,WR
 Odell Beckham,Beckham Jr. has been designated for the injured reserve list due to season-ending surgery to repair a fractured left ankle.,Ankle,I-R,NYG,WR
+Dwayne Harris,Harris is on injured reserve due to a fracture of his fifth metatarsal in his foot.,Foot,I-R,NYG,WR
 Janoris Jenkins,Jenkins sustained an injury to his ankle and is on the injured reserve list.,Ankle,I-R,NYG,CB
 Curtis Grant,Grant is on injured reserve with a knee injury.,Knee,I-R,NYG,LB
 D.J. Fluker,Fluker has been placed on injured reserve due to a toe injury.,Toe,I-R,NYG,G
-Donte Deayon,Deayon broke his right forearm and is on the injured reserve list.,Forearm,I-R,NYG,CB
 Deontae Skinner,Skinner has been designated for the injured reserve list due to a hamstring injury.,Hamstring,I-R,NYG,LB
+Donte Deayon,Deayon broke his right forearm and is on the injured reserve list.,Forearm,I-R,NYG,CB
 Keenan Robinson,Robinson suffered an injured quadriceps and is on the injured reserve list.,Quadricep,I-R,NYG,LB
 Weston Richburg,Richburg has landed on injured reserve as he works his way through the NFL's concussion protocol. It is unknown if he will be activated when first eligible against the Redskins on New Year's Eve.,Concussion,I-R,NYG,C
-Landon Collins,Collins departed the previous game with an ankle injury and his status for Sunday's contest against the Eagles is undecided.,Ankle,questionable,NYG,S
+Brandon Dixon,"Dixon has injuries to his heel and hamstring, leaving his availability up in the air against the Eagles on Sunday.",Heel,questionable,NYG,CB
+Roger Lewis,"Lewis is tending to an ankle injury, leaving his availability against the Eagles on Sunday in question.",Ankle,questionable,NYG,CB
+Rhett Ellison,Ellison is dealing with a finger injury and it is unknown if he will play against the Eagles on Sunday.,Finger,questionable,NYG,TE
+Jason Pierre-Paul,Pierre-Paul is nursing an injured finger and it is unclear if he will suit up Sunday against the Eagles.,Finger,questionable,NYG,DE
+Eli Apple,Apple missed his second-consecutive game due to a hip injury but is expected to play Sunday against the Eagles.,Hip,probable,NYG,CB
 Travis Rudolph,Rudolph missed the previous game due to a hamstring injury and it is unclear if he will be in the lineup against the Eagles on Sunday.,Hamstring,questionable,NYG,WR
+Landon Collins,Collins departed the previous game with an ankle injury and his status for Sunday's contest against the Eagles is undecided.,Ankle,questionable,NYG,S
+Romeo Okwara,Okwara has landed on the IR/Designated for Return list with a sprained MCL in his knee and it is unknown if he will be activated in time for Sunday's matchup against the Eagles.,Knee,I-R,NYG,DE
 B.J. Goodson,Goodson was held out of the last game due to an ankle injury and his availability against the Eagles on Sunday is in question.,Ankle,questionable,NYG,LB
 Justin Pugh,Pugh was absent from the lineup for the second-straight game with a back injury and it is uncertain if he will suit up Sunday against the Eagles.,Back,questionable,NYG,G
-Eli Apple,Apple missed his second-consecutive game due to a hip injury but is expected to play Sunday against the Eagles.,Hip,probable,NYG,CB
-Romeo Okwara,Okwara has landed on the IR/Designated for Return list with a sprained MCL in his knee and it is unknown if he will be activated in time for Sunday's matchup against the Eagles.,Knee,I-R,NYG,DE
 Darius Powe,Powe had surgery to repair a foot injury and is on the injured reserve list.,Foot,I-R,NYG,WR
 Jonathan Casillas,Casillas is on the injured reserve list due to to injuries to his neck and wrist.,Neck,I-R,NYG,LB
 Antwon Blake,Blake is away from the team tending to a personal matter and will miss an undetermined amount of time.,Personal,out,NYG,CB
@@ -318,20 +395,24 @@ Xavier Coleman,Coleman has been placed on injured reserve with a torn labrum in 
 Brisly Estime,Estime has landed on injured reserve due to a torn Achilles tendon.,Achilles,I-R,NYJ,WR
 Devin Smith,Smith has been placed on the injured reserve list while he recovers from a torn ACL.,Knee,I-R,NYJ,WR
 Jeremy Clark,Clark has been placed on the Injured Reserve/Non-Football Injury list with a knee injury.,Knee,I-R,NYJ,CB
-Christian Hackenberg,Hackenberg has been held out of the last four games due to a right finger injury and it is uncertain if he will be available against the Saints on Sunday.,Finger,questionable,NYJ,QB
-Dylan Donahue,Donahue is on the injured reserve list with an elbow injury and it is uncertain if he will return Sunday against the Saints.,Elbow,I-R,NYJ,LB
-Charone Peake,Peake has landed on the injured reserve with an ankle injury. It is unknown if he will be activated in time for Sunday's game against the Saints.,Ankle,I-R,NYJ,WR
+Matt Forte,Forte is expected to line up against the Saints on Sunday despite a lingering knee injury.,Knee,probable,NYJ,RB
+Brian Winters,Winters is nursing injuries to his abdomen and ankle. It is uncertain if he will be in Sunday's lineup against the Saints.,Abdominal,questionable,NYJ,G
+Rontez Miles,Miles is dealing with an injured hamstring and it is unclear if he will be a participant in Sunday's contest against the Saints.,Hamstring,questionable,NYJ,S
+Morris Claiborne,Claiborne has a foot injury and it is unknown if he will play against the Saints on Sunday.,Foot,questionable,NYJ,CB
 Elijah McGuire,McGuire left the last game with an ankle injury and his status for Sunday's matchup against the Saints is undecided.,Ankle,questionable,NYJ,RB
 Jonotthan Harrison,Harrison has missed the past four games with a hand injury and it is uncertain if he will return against the Saints on Sunday.,Hand,questionable,NYJ,OL
+Dylan Donahue,Donahue is on the injured reserve list with an elbow injury and it is uncertain if he will return Sunday against the Saints.,Elbow,I-R,NYJ,LB
+Charone Peake,Peake has landed on the injured reserve with an ankle injury. It is unknown if he will be activated in time for Sunday's game against the Saints.,Ankle,I-R,NYJ,WR
 Bruce Carter,Carter missed the last game with a groin injury and it is unknown if he will partake in Sunday's matchup against the Saints.,Groin,questionable,NYJ,LB
 Josh McCown,McCown has been placed on the injured reserve list with a broken left hand.,Hand,I-R,NYJ,QB
 Thomas Hennessy,Hennessy was forced from the previous game with a head injury and it is unclear if he will play Sunday against the Saints.,Head,questionable,NYJ,LS
+Christian Hackenberg,Hackenberg has been held out of the last four games due to a right finger injury and it is uncertain if he will be available against the Saints on Sunday.,Finger,questionable,NYJ,QB
 Lorenzo Mauldin,Mauldin has a back injury and is on injured reserve.,Back,I-R,NYJ,LB
 Quincy Enunwa,Enunwa has been placed on the injured reserve list after having surgery to repair a bulging disc in his neck.,Neck,I-R,NYJ,WR
 Doug Middleton,Middleton sustained a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,NYJ,S
 Bryson Keeton,Keeton has been placed on the injured reserve list with a torn ACL.,Knee,I-R,NYJ,CB
-Alex Tanney,Tanney has landed in the injured reserve list with a broken foot.,Foot,I-R,TEN,QB
 Tajae Sharpe,Sharpe is on injured reserve due to a foot injury.,Foot,I-R,TEN,WR
+Alex Tanney,Tanney has landed in the injured reserve list with a broken foot.,Foot,I-R,TEN,QB
 Marcus Mariota,Mariota has a left knee sprain but is likely to be available against the 49ers on Sunday.,Knee,probable,TEN,QB
 Aaron Wallace,Wallace has landed on injured reserve with a back injury and it is unclear if he will be activated in time for Sunday's contest against the 49ers.,Back,I-R,TEN,LB
 Derrick Morgan,Morgan sat out the last game due to a knee injury and it is uncertain if he will play Sunday against the 49ers.,Knee,questionable,TEN,LB
@@ -342,68 +423,81 @@ Darren Sproles,Sproles has been designated for the injured reserve list due to a
 Donnel Pumphrey,Pumphrey is on the injured reserve list with a torn hamstring.,Hamstring,I-R,PHI,RB
 Jordan Hicks,Hicks tore his right Achilles and is on injured reserve.,Achilles,I-R,PHI,LB
 Jason Peters,Peters tore the ACL and MCL in his right knee and is on the injured reserve list.,Knee,I-R,PHI,T
-Aziz Shittu,Shittu has been placed on the injured reserve list due to a knee injury.,Knee,I-R,PHI,DT
 Dom Williams,Williams has been designated for injured reserve with an Achilles injury.,Achilles,I-R,PHI,WR
+Aziz Shittu,Shittu has been placed on the injured reserve list due to a knee injury.,Knee,I-R,PHI,DT
+Zach Ertz,Ertz sat out the previous game due with a concussion but has cleared protocol and is expected to suit up for Sunday's matchup against the Giants.,Concussion,probable,PHI,TE
+Joe Walker,Walker has missed the last two games with a neck injury but is likely to play Sunday against the Giants.,Neck,probable,PHI,LB
+Rodney McLeod,McLeod is dealing with an injured quadriceps and it is unknown if he will play against the Giants on Sunday.,Quadricep,questionable,PHI,S
+Stefen Wisniewski,Wisniewski has an ankle injury and it is unclear if he will participate in Sunday's game against the Giants.,Ankle,questionable,PHI,G
 Sidney Jones,Jones is on the Injured Reserve/Non-Football Injury list while he recovers from a torn Achilles' tendon and it is undetermined if he will be activated in time for Sunday's game against the Giants.,Achilles,I-R,PHI,CB
-Joe Walker,Walker has missed the last two games with a neck injury and it is uncertain if he will play Sunday against the Giants.,Neck,questionable,PHI,LB
-Chris Maragos,Maragos has landed on injured reserve with a knee injury and will not be eligible to return until Sunday against the Giants.,Knee,I-R,PHI,S
-Zach Ertz,Ertz sat out the previous game due with a concussion and it is unknown if he will be cleared for Sunday's matchup against the Giants.,Concussion,questionable,PHI,TE
 Carson Wentz,Wentz suffered a torn ACL in his left knee and is on the injured reserve list.,Knee,I-R,PHI,QB
+Chris Maragos,Maragos has landed on injured reserve with a knee injury and will not be eligible to return until Sunday against the Giants.,Knee,I-R,PHI,S
 Caleb Sturgis,Sturgis has landed on the injured reserve list with a strained quadriceps in his plant leg and is not expected tol be activated at any point during the remainder of the season.,Quadricep,I-R,PHI,K
 Randall Goforth,Goforth has landed on injured reserve with a torn ACL.,Knee,I-R,PHI,CB
 Marcus Gilbert,Gilbert has been handed a four-game suspension for violating the league's stance on performance enhancing drugs but is expected to be available December 25 against the Texans.,Suspension,out,PIT,T
+Stephon Tuitt,Tuitt is ailing from an illness and his status for Sunday's contest against the Patriots is up in the air.,Illness,questionable,PIT,DE
+Coty Sensabaugh,Sensabaugh is dealing with a shoulder injury and it is undetermined if he will take part in Sunday's game against the Patriots.,Shoulder,questionable,PIT,CB
+Vance McDonald,McDonald has a shoulder injury and it is uncertain if he will suit up against the Patriots on Sunday.,Shoulder,questionable,PIT,TE
 Tyler Matakevich,Matakevich sat out the last game with an injured shoulder and it is unclear if he will play Sunday against the Patriots.,Shoulder,questionable,PIT,LB
 Ryan Shazier,Shazier had spinal stabilization surgery and is on the injured reserve list.,Spine,I-R,PIT,LB
 Joe Haden,Haden is recovering from a broken left fibula and it is unknown if he will be in the lineup Sunday against the Patriots.,Leg,questionable,PIT,DB
 Keion Adams,Adams has a shoulder injury and is on the injured reserve list.,Shoulder,I-R,PIT,LB
 Sebastian Janikowski,Janikowski has been placed on the injured reserve list with a back injury.,Back,I-R,OAK,K
 Gareon Conley,Conley has been designated for the injured reserve list due to lingering shin splints.,Shin,I-R,OAK,CB
-Mario Edwards,Edwards left the last game after suffering a right ankle injury and his availability for Sunday's contest against the Cowboys is undecided.,Ankle,questionable,OAK,DE
-Jihad Ward,Ward missed the last game with a foot injury and it is unclear if he will play Sunday against the Cowboys.,Foot,questionable,OAK,DE
-Cory James,James has missed the previous two games due to a knee injury and it is unknown if he will play against the Cowboys on Sunday.,Knee,questionable,OAK,LB
+Clive Walford,Walford is going through the concussion protocol and it is undetermined if he will be cleared in time for Sunday's contest against the Cowboys.,Concussion,questionable,OAK,TE
+Obi Melifonwu,Melifonwu is battling a hip injury and it is uncertain if he will suit up against the Cowboys on Sunday.,Hip,questionable,OAK,S
+Cory James,James has been placed on the injured reserve list due to a knee injury.,Knee,I-R,OAK,LB
+Jihad Ward,Ward missed the last game with a foot injury but is likely to play Sunday against the Cowboys.,Foot,probable,OAK,DE
+Keith McGill,McGill II is nursing a knee injury and it is unknown if he will suit up Sunday against the Cowboys.,Knee,questionable,OAK,DB
+Jared Cook,Cook has a wrist injury but is likely to play against the Cowboys on Sunday.,Wrist,probable,OAK,TE
+Denico Autry,"Autry is dealing with injuries to his hand and ankle, leaving his status for Sunday's game against the Cowboys up in the air.",Hand,questionable,OAK,DL
 Jon Feliciano,Feliciano sat out the last game with a concussion and it is unknown if he will be available against the Cowboys on Sunday.,Concussion,questionable,OAK,OL
 Amari Cooper,Cooper exited the previous game with a left ankle injury and his status for Sunday's tilt against the Cowboy is in question.,Ankle,questionable,OAK,WR
 Antonio Hamilton,Hamilton has been placed on the IR/Designated for Return list with a knee injury is it unclear if he will return Sunday against the Cowboys.,Knee,I-R,OAK,CB
+Mario Edwards,Edwards left the last game after suffering a right ankle injury and his availability for Sunday's contest against the Cowboys is undecided.,Ankle,questionable,OAK,DE
 Denver Kirkland,Kirkland has landed on injured reserve due to a leg injury.,Leg,I-R,OAK,G
 David Amerson,Amerson will miss an undetermined length of time due to foot and shoulder injuries.,Foot,out,OAK,CB
 Aldon Smith,Smith remains suspended for an undetermined amount of time for violating the league's substance-abuse program.,Suspension,out,OAK,LB
 Temarrick Hemingway,Hemingway sustained a fractured fibula and is on injured reserve.,Shin,I-R,LAR,TE
 Cody Davis,Davis has landed on injured reserve wit ha thigh injury and will be eligible to be activated December 31 against the 49ers.,Thigh,I-R,LAR,S
-Andrew Whitworth,Whitworth suffered ankle and knee injury in the last game but is expected to suit up for Sunday's matchup with the Seahawks.,Ankle,probable,LAR,T
 Trumaine Johnson,Johnson was removed from the previous game due to a concussion and it is undetermined if he will pass protocol in time for Sunday's contest against the Seahawks.,Concussion,questionable,LAR,CB
 Rob Havenstein,Havenstein is expected to play against the Seahawks on Sunday despite exiting the last game with a left ankle injury.,Ankle,probable,LAR,T
 Robert Woods,Woods is recovering from a left shoulder sprain and is expected to return to action against the Seahawks on Sunday.,Shoulder,probable,LAR,WR
 Connor Barwin,Barwin is recuperating from a fracture in his forearm but is expected to return Sunday against the Seahawks.,Forearm,probable,LAR,LB
+Andrew Whitworth,Whitworth suffered ankle and knee injury in the last game but is expected to suit up for Sunday's matchup with the Seahawks.,Ankle,probable,LAR,T
 Kayvon Webster,Webster is on the injured reserve list due to a ruptured right Achilles tendon.,Ankle,I-R,LAR,CB
 Dominique Easley,Easley has landed on the injured reserve list due to a torn ACL.,Knee,I-R,LAR,DT
 Brent Urban,Urban suffered a lisfranc foot sprain and is on the injured reserve list.,Foot,I-R,BAL,DE
-Marshal Yanda,Yanda has been placed on injured reserve with a fractured ankle.,Ankle,I-R,BAL,G
 Bam Bradley,Bradley has been placed on the injured reserve list with a torn ACL in his knee.,Knee,I-R,BAL,LB
+Marshal Yanda,Yanda has been placed on injured reserve with a fractured ankle.,Ankle,I-R,BAL,G
 Brandon Boykin,Boykin has landed on injured reserve due to an undefined injury.,Undisclosed,I-R,BAL,CB
-Nico Siragusa,Siragusa has been placed on the injured reserve with a torn ACL in his left knee.,Knee,I-R,BAL,G
-Albert McClellan,McClellan has been placed on the injured reserve with a torn ACL.,Knee,I-R,BAL,LB
+Alex Lewis,Lewis had surgery to repair a shoulder injury and is on the injured reserve list.,Shoulder,I-R,BAL,G
 Tavon Young,Young is on the injured reserve list with a torn ACL and will miss the entire 2017 season.,Knee,I-R,BAL,CB
 Tim White,White has been placed on the injured reserve with a thumb injury.,Thumb,I-R,BAL,WR
-Alex Lewis,Lewis had surgery to repair a shoulder injury and is on the injured reserve list.,Shoulder,I-R,BAL,G
+Nico Siragusa,Siragusa has been placed on the injured reserve with a torn ACL in his left knee.,Knee,I-R,BAL,G
+Albert McClellan,McClellan has been placed on the injured reserve with a torn ACL.,Knee,I-R,BAL,LB
 Kenneth Dixon,Dixon had season-ending surgery to repair his medial meniscus and is on the injured reserve list.,Knee,I-R,BAL,RB
 Darren Waller,Waller has been suspended for at least one year for violating the league's substance-abuse policy.,Suspension,out,BAL,TE
-Za'Darius Smith,Smith missed the last game with a shoulder injury and it is unclear if he will be available Sunday against the Browns.,Shoulder,questionable,BAL,LB
+Mike Wallace,Wallace has an ankle injury and it is unclear if he will partake in Sunday's game against the Browns.,Ankle,questionable,BAL,WR
+Ryan Jensen,Jensen is nursing an ankle injury and it is uncertain if it will prevent him from playing against the Browns on Sunday.,Ankle,questionable,BAL,G
+Jermaine Eluemunor,Eluemunor has sat out the last three games with a shoulder injury but is likely to return Sunday against the Browns.,Shoulder,probable,BAL,G
+Maurice Canady,Canady is dealing with a knee injury and it is unclear if he will participate in Sunday's contest against the Browns.,Knee,questionable,BAL,CB
 Chris Moore,Moore left the last game with an unspecified injury and it is unclear if he will be available Sunday against the Browns.,Undisclosed,questionable,BAL,WR
-Jermaine Eluemunor,Eluemunor has sat out the last three games with a shoulder injury and it is unknown if he will return Sunday against the Browns.,Shoulder,questionable,BAL,G
+Za'Darius Smith,Smith missed the last game with a shoulder injury and it is unclear if he will be available Sunday against the Browns.,Shoulder,questionable,BAL,LB
 Jimmy Smith,Smith has been placed on the injured reserve list with a ruptured Achilles and has also been issued a four-game suspension for violating the league's performance-enhancing substances policy.,Achilles,I-R,BAL,CB
 Crockett Gillmore,Gillmore has been placed on the injured reserve list with after having MCL surgery.,Knee,I-R,BAL,TE
 Jason Verrett,Verrett has been placed on the injured reserve list with a knee injury.,Knee,I-R,LAC,CB
 Chris Hairston,Hairston has landed on the Injured Reserve/Non-Football Illness list with blood clots.,Illness,I-R,LAC,T
 Forrest Lamp,Lamp sustained a torn ACL in his right knee and is on the injured reserve list.,Knee,I-R,LAC,G
 Matt Slauson,Slauson is on the injured reserve list due to a torn biceps.,Bicep,I-R,LAC,C
+Adrian Phillips,Phillips is tending to a hamstring injury but is expected to be available for Saturday's matchup against the Chiefs.,Hamstring,probable,LAC,S
+Spencer Pulley,Pulley is hampered by a knee injury but is likely to be available against the Chiefs on Saturday.,Knee,probable,LAC,C
+Denzel Perryman,Perryman is battling an abdominal injury but is likely to suit up against the Chiefs on Saturday.,Abdominal,probable,LAC,LB
 Hunter Henry,Henry has a calf injury but is likely to play Saturday against the Chiefs.,Calf,probable,LAC,TE
-Andre Williams,Williams has been placed on the injured reserve list with a wrist injury.,Wrist,I-R,LAC,RB
-Adrian Phillips,Phillips is tending to a hamstring injury and his status for Saturday's matchup against the Chiefs is up in the air.,Hamstring,questionable,LAC,S
 James Onwualu,Onwualu sat out his fourth-consecutive game due to a quadriceps injury and it is unclear if he will return to the lineup against the Chiefs on Saturday.,Quadricep,questionable,LAC,LB
 Corey Liuget,Liuget is dealing with an injured toe and it is unknown if he will play against the Chiefs on Saturday.,Toe,questionable,LAC,DT
-Spencer Pulley,Pulley is hampered by a knee injury and his availability against the Chiefs on Saturday is undecided.,Knee,questionable,LAC,C
-Denzel Perryman,Perryman is battling an abdominal injury and it is undetermined if he will suit up against the Chiefs on Saturday.,Abdominal,questionable,LAC,LB
 Russell Okung,Okung is nursing a knee injury and it is uncertain if he will suit up Saturday against the Chiefs.,Knee,questionable,LAC,T
+Andre Williams,Williams has been placed on the injured reserve list with a wrist injury.,Wrist,I-R,LAC,RB
 Nick Novak,Novak is on injured reserve due to a back injury.,Back,I-R,LAC,K
 Chris Landrum,Landrum is on the injured reserve list with a shoulder injury.,Shoulder,I-R,LAC,DE
 Charmeachealle Moore,Moore has been designated for injured reserve with an unspecified injury.,Undisclosed,I-R,LAC,LB
@@ -418,28 +512,33 @@ C.J. Prosise,Prosise has been placed on injured reserve with a sprained left ank
 Richard Sherman,Sherman suffered a ruptured right Achilles tendon and is on the injured reserve list.,Achilles,I-R,SEA,CB
 Rees Odhiambo,Odhiambo is dealing with injuries to both hands and is on the injured reserve list.,Hand,I-R,SEA,G
 Tre Madden,"Madden has been placed on injured reserve with a calf injury, ending his season.",Calf,I-R,SEA,FB
+Jimmy Graham,Graham is expected to play Sunday against the Rams despite an ankle injury.,Ankle,probable,SEA,TE
+Mike Davis,Davis has injured ribs but it is not expected to impede his status for Sunday's game against the Rams.,Ribs,probable,SEA,CB
+Chris Carson,Carson is on the injured reserve list while recovering from a fracture just below his left knee and a high-ankle sprain. He will not be ready to return Sunday against the Rams.,Knee,I-R,SEA,RB
+Oday Aboushi,Aboushi has a dislocated shoulder and is on injured reserve.,Shoulder,I-R,SEA,G
 Bobby Wagner,Wagner was forced from Sunday's game with a hamstring injury and it is uncertain if he will suit up against the Rams on Sunday.,Hamstring,questionable,SEA,LB
 DeShawn Shead,Shead underwent surgery to repair the torn ACL in his left knee and is on the PUP list. It is undetermined if he will be activated in time for Sunday's game against the Rams.,Knee,I-R,SEA,CB
 Dion Jordan,Jordan has sat out the previous three games due to a neck injury and it is unclear if he will participate in Sunday's contest against the Rams.,Neck,questionable,SEA,DE
-Chris Carson,Carson has landed on the injured reserve list due to a fracture just below his left knee and a high-ankle sprain. It is uncertain if he will return Sunday against the Rams.,Knee,I-R,SEA,RB
 K.J. Wright,Wright was lifted from the last game due to a concussion and it is uncertain if he will pass protocol in time for Sunday's game against the Rams.,Concussion,questionable,SEA,LB
-Oday Aboushi,Aboushi has been held out of the past three games due to a dislocated shoulder and it is unknown if he will return against the Rams on Sunday.,Shoulder,questionable,SEA,G
 Nazair Jones,Jones has missed the last two games due to an ankle injury and his status Sunday against the Rams is undecided.,Ankle,questionable,SEA,DT
 Josh Forrest,Forrest has been placed on the injured reserve list with a foot injury.,Foot,I-R,SEA,LB
-Joshua Garnett,Garnett had a procedure performed on his knee and is on the injured reserve list.,Knee,I-R,SFO,G
 Aaron Burbridge,Burbridge has landed on injured reserve with a hamstring injury.,Hamstring,I-R,SFO,WR
-Don Jones,Jones has been designated for injured reserve with a torn ACL in his left knee.,Knee,I-R,SFO,DB
 Chris Jones,Jones is dealing with an unspecified injury and is on injured reserve.,Undisclosed,I-R,SFO,DL
-Garry Gilliam,Gilliam has landed on the injured reserve list with a knee injury.,Knee,I-R,SFO,OL
+Joshua Garnett,Garnett had a procedure performed on his knee and is on the injured reserve list.,Knee,I-R,SFO,G
+Don Jones,Jones has been designated for injured reserve with a torn ACL in his left knee.,Knee,I-R,SFO,DB
 Jimmie Ward,Ward suffered a broken forearm and is on the injured reserve list.,Forearm,I-R,SFO,DB
-Raheem Mostert,Mostert sustained a knee injury and is on injured reserve.,Knee,I-R,SFO,RB
+Garry Gilliam,Gilliam has landed on the injured reserve list with a knee injury.,Knee,I-R,SFO,OL
 Erik Magnuson,Magnuson has landed on injured reserve with a shoulder injury.,Shoulder,I-R,SFO,OL
+Raheem Mostert,Mostert sustained a knee injury and is on injured reserve.,Knee,I-R,SFO,RB
 Jaquiski Tartt,Tartt is on the injured reserve list as he suffered a broken forearm.,Forearm,I-R,SFO,S
 Cole Hikutini,Hikutini has been placed on the injured reserve list due to a knee injury.,Knee,I-R,SFO,TE
 Pierre Garcon,Garcon suffered a neck injury and is on the injured reserve list.,Neck,I-R,SFO,WR
-Arik Armstead,Armstead is on injured reserve with a broken hand and it is unclear if he will be activated Sunday against the Titans.,Hand,I-R,SFO,DL
-Trenton Brown,Brown sat out the last game with a shoulder injury and his availability for Sunday's matchup against the Titans is in question.,Shoulder,questionable,SFO,OL
+Victor Bolden,Bolden Jr. has been placed on the injured reserve list due to an ankle injury.,Ankle,I-R,SFO,WR
+Louis Murphy,Murphy is ailing from an illness and it is unclear if he will play against the Titans on Sunday.,Illness,questionable,SFO,WR
+Garrett Celek,Celek is likely to play Sunday against the Titans despite a knee injury.,Knee,probable,SFO,TE
 Asa Jackson,Jackson has been placed on the injured reserve list with a hamstring injury and it is unknown if he will return Sunday against the Titans.,Hamstring,I-R,SFO,CB
+Trenton Brown,Brown sat out the last game with a shoulder injury and his availability for Sunday's matchup against the Titans is in question.,Shoulder,questionable,SFO,OL
+Arik Armstead,Armstead is on injured reserve with a broken hand and it is unclear if he will be activated Sunday against the Titans.,Hand,I-R,SFO,DL
 Donavin Newsom,Newsom has been diagnosed with a concussion and is on the injured reserve list.,Concussion,I-R,SFO,LB
 Chanceller James,James is on injured reserve with a knee injury.,Knee,I-R,SFO,S
 Malcolm Smith,Smith sustained a torn pectoral muscle and is on the injured reserve list.,Pectoral,I-R,SFO,LB
@@ -450,36 +549,40 @@ Noah Spence,Spence is on injured reserve due to a torn labrum in his shoulder.,S
 Nick Folk,Folk has been placed on the injured reserve list due to tendinitis in his plant leg.,Leg,I-R,TAM,K
 Demar Dotson,Dotson has been placed on the injured reserve list with a knee injury.,Knee,I-R,TAM,T
 Ali Marpet,Marpet injured his knee and has landed on the injured reserve list.,Knee,I-R,TAM,C
-Vernon Hargreaves,Hargreaves missed his fourth-consecutive game due to a hamstring injury and it is unclear if he will return to the lineup Monday against the Falcons.,Hamstring,questionable,TAM,CB
+Gerald McCoy,McCoy suffered a right biceps injury and it is unclear if he will be available Monday against the Falcons.,Bicep,questionable,TAM,DT
 Clinton McDonald,McDonald missed his second-straight game with a back injury and it is uncertain if he will be active Monday against the Falcons.,Back,questionable,TAM,DT
 Joe Hawley,Hawley sat out the previous game with an illness and it is unclear if it will hinder his availability against the Falcons on Monday.,Illness,questionable,TAM,C
 T.J. Ward,Ward has sat out the previous two games with a concussion and it is unknown if he will be cleared in time for Monday's matchup against the Falcons.,Concussion,questionable,TAM,S
 Josh Robinson,Robinson has been held out of the previous two games with a hamstring injury and it is undetermined if he will suit up against the Falcons on Monday.,Hamstring,questionable,TAM,CB
-Gerald McCoy,McCoy suffered a significant biceps injury and there is no timetable for return.,Bicep,out,TAM,DT
+Vernon Hargreaves,Hargreaves missed his fourth-consecutive game due to a hamstring injury and it is unclear if he will return to the lineup Monday against the Falcons.,Hamstring,questionable,TAM,CB
 Justin Trattou,Trattou has landed on the injured reserve list with an unspecified ailment.,Undisclosed,I-R,TAM,DE
 Su'a Cravens,Cravens had offseason surgery to trim the meniscus in his knee and is on the Injured Reserve/Left Squad list.,Knee,I-R,WAS,S
 Phil Taylor,Taylor Sr. has a quadriceps injury and is on the injured reserve list.,Quadricep,I-R,WAS,DL
 Mason Foster,Foster has been placed on injured reserve due to a torn labrum in his shoulder.,Shoulder,I-R,WAS,LB
-Dustin Hopkins,Hipkins has landed on the injured reserve list due to a right hip rotator muscle sprain.,Hip,I-R,WAS,K
 Spencer Long,Long is on the injured reserve list due to a quadriceps tendon injury.,Quadricep,I-R,WAS,C
+Terrelle Pryor,Pryor Sr. had his ankle scoped and is on the injured reserve list.,Ankle,I-R,WAS,WR
 Shawn Lauvao,Lauvao is on injured reserve with a neck injury.,Neck,I-R,WAS,G
 Chris Thompson,Thompson suffered a fractured right fibula and is on the injured reserve list.,Leg,I-R,WAS,RB
-Terrelle Pryor,Pryor Sr. had his ankle scoped and is on the injured reserve list.,Ankle,I-R,WAS,WR
 T.J. Clemmings,Clemmings is on the injured reserve with an ankle injury.,Ankle,I-R,WAS,T
 William Compton,Compton has been placed on the injured reserve list with a Lisfranc sprain in his foot.,Foot,I-R,WAS,LB
 Robert Kelley,Kelley has landed on the injured reserve list due to a high-ankle sprain and a sprained MCL.,Ankle,I-R,WAS,RB
 Arthur Jones,Jones is on injured reserve with a shoulder injury.,Shoulder,I-R,WAS,DL
+Dustin Hopkins,Hipkins has landed on the IR/Designated for Return list with to a right hip rotator muscle sprain and it is unknown if he will be activated in time for Sunday's game against the Cardinals.,Hip,I-R,WAS,K
+Josh Norman,Norman is bothered by a knee injury and his status is uncertain for Sunday's matchup against the Cardinals.,Knee,questionable,WAS,CB
+Ryan Anderson,Anderson is nursing an ankle injury and it is uncertain if it will obstruct his availability for Sunday's game against the Cardinals.,Ankle,questionable,WAS,LB
+Trent Williams,Williams is dealing with a lingering knee injury and it is unknown if he will be available against the Cardinals on Sunday.,Knee,questionable,WAS,T
+Morgan Moses,Moses has an ankle injury and it is unclear if he will partake in Sunday's game against the Cardinals.,Ankle,questionable,WAS,T
+Chase Roullier,Roullier sat out his third-straight game due to a hand injury and it is unknown if he will return Sunday against the Cardinals.,Hand,questionable,WAS,C
+Ryan Grant,Grant has an ankle injury and it is undetermined if it will prevent him from suiting up against the Cardinals on Sunday.,Ankle,questionable,WAS,WR
+Zach Brown,Brown departed the previous game with a foot injury and will not be available against Cardinals on Sunday.,Foot,out,WAS,LB
+Terrell McClain,McClain has been held out of the the previous three games with an injured toe and his status is unclear against the Cardinals on Sunday.,Toe,questionable,WAS,DL
+Byron Marshall,Marshall suffered a hamstring injury and is on the injured reserve list.,Hamstring,I-R,WAS,RB
 Maurice Harris,Harris missed the previous game due to a concussion and it is uncertain if he will pass protocol in time for Sunday's contest against the Cardinals.,Concussion,questionable,WAS,WR
 Jordan Reed,Reed has landed on the injured reserve list with a hamstring injury.,Hamstring,I-R,WAS,TE
 Samaje Perine,Perine was lifted from the last game due to an illness but is likely to play Sunday against the Cardinals.,Illness,probable,WAS,RB
-Chris Carter,Carter has been placed on the injured reserve list due to a fractured fibula.,Leg,I-R,WAS,LB
-Ryan Grant,Grant has an ankle injury and it is undetermined if it will prevent him from suiting up against the Cardinals on Sunday.,Ankle,questionable,WAS,WR
-Chase Roullier,Roullier sat out his third-straight game due to a hand injury and it is unknown if he will return Sunday against the Cardinals.,Hand,questionable,WAS,C
 Montae Nicholson,Nicholson has not been able to clear concussion protocol prior to the past three games and it is unclear if he will return to action against the Cardinals on Sunday.,Concussion,questionable,WAS,S
-Zach Brown,Brown departed the previous game with a foot injury and will not be available against Cardinals on Sunday.,Foot,out,WAS,LB
-Terrell McClain,McClain has been held out of the the previous three games with an injured toe and his status is unclear against the Cardinals on Sunday.,Toe,questionable,WAS,DL
+Chris Carter,Carter has been placed on the injured reserve list due to a fractured fibula.,Leg,I-R,WAS,LB
 Jonathan Allen,"Allen has been designated for the injured reserve list due to a lisfranc sprain in his foot. He will be eligible to return if activated, Sunday against the Cardinals.",Foot,I-R,WAS,DL
-Byron Marshall,Marshall suffered a hamstring injury and is on the injured reserve list.,Hamstring,I-R,WAS,RB
 Kevin Bowen,Bowen is on injured reserve with a left ankle injury.,Ankle,I-R,WAS,T
 Trent Murphy,Murphy suffered an ACL and MLC tear and will spend the entire 2017 season on the injured reserve list.,Knee,I-R,WAS,LB
 Keith Marshall,Marshall has been placed on injured reserve after having surgery to repair a torn right patellar tendon.,Knee,I-R,WAS,RB
